@@ -4,58 +4,9 @@
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://distv.
 
 
-#EXTINF:-1,CINE DISNEY HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31306
-#EXTINF:-1,CINE FAROESTE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31307
-#EXTINF:-1,CINE LIGA DA JUSTIÇA HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31308
-#EXTINF:-1,CINE MARVEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31309
-#EXTINF:-1,CINE PIPOCA 1
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31310
-#EXTINF:-1,CINE PIPOCA 2
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31311
-#EXTINF:-1,CINE PIPOCA 3
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31312
-#EXTINF:-1,CINE PIPOCA 4
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31313
-#EXTINF:-1,CINE PIPOCA 5
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31314
-#EXTINF:-1,CINE SESSÃO DA TARDE HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31315
-#EXTINF:-1,CINE SKY 01 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31316
-#EXTINF:-1,CINE SKY 02 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31317
-#EXTINF:-1,CINE SKY 03 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31318
-#EXTINF:-1,CINE SKY 04 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31319
-#EXTINF:-1,CINE SKY 05 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31320
-#EXTINF:-1,CINE SKY 06 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31321
-#EXTINF:-1,CINE SKY 07 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31322
-#EXTINF:-1,CINE SKY 10 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31323
-#EXTINF:-1,CINE SKY 8 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31324
-#EXTINF:-1,CINE SKY 9 HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31325
-#EXTINF:-1,CINE TRAPALHÕES HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31326
-#EXTINF:-1,CLASSIC FILMES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31327
-#EXTINF:-1,GOSPEL MOVIE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31328
-#EXTINF:-1,NOVA CINEMA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31329
-#EXTINF:-1,TVSÉRIES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31330
-#EXTINF:-1,VINTAGE MOVIES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31331
+
+
+
 #EXTINF:-1,THE BIG BANG THEORY
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31632
 #EXTINF:-1,Tom & Jerry
