@@ -1,398 +1,184 @@
 
+
+
+
+
 #EXTM3U
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -CANAIS 24HRS[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://distv.
+http://distv.
 
 
 
-#EXTINF:-1,[24H] - Aladin
-http://srvuhd.top:80/FAMILIA/12345/72932
-#EXTINF:-1,[24H] - As Meninas Superpoderosas
-http://srvuhd.top:80/FAMILIA/12345/72933
-#EXTINF:-1,[24H] - Ben 10
-http://srvuhd.top:80/FAMILIA/12345/72934
-#EXTINF:-1,[24H] - Bob Esponja
-http://srvuhd.top:80/FAMILIA/12345/72935
-#EXTINF:-1,[24H] - Breaking Bad
-http://srvuhd.top:80/FAMILIA/12345/72936
-#EXTINF:-1,[24H] - Cão Coragem
-http://srvuhd.top:80/FAMILIA/12345/72937
-#EXTINF:-1,[24H] - Caverna do Dragão
-http://srvuhd.top:80/FAMILIA/12345/72938
-#EXTINF:-1,[24H] - Chapolin Colorado
-http://srvuhd.top:80/FAMILIA/12345/72939
-#EXTINF:-1,[24H] - Chaves
-http://srvuhd.top:80/FAMILIA/12345/72940
-#EXTINF:-1,[24H] - Chaves Desenho
-http://srvuhd.top:80/FAMILIA/12345/72941
-#EXTINF:-1,[24H] - Denis o Pimentinha
-http://srvuhd.top:80/FAMILIA/12345/72942
-#EXTINF:-1,[24H] - Desenhos Biblicos
-http://srvuhd.top:80/FAMILIA/12345/72943
-#EXTINF:-1,[24H] - Desenhos Disney
-http://srvuhd.top:80/FAMILIA/12345/72944
-#EXTINF:-1,[24H] - Digimon
-http://srvuhd.top:80/FAMILIA/12345/72945
-#EXTINF:-1,[24H] - Dois Homens e Meio
-http://srvuhd.top:80/FAMILIA/12345/72946
-#EXTINF:-1,[24H] - Doug
-http://srvuhd.top:80/FAMILIA/12345/72947
-#EXTINF:-1,[24H] - Dragon Ball
-http://srvuhd.top:80/FAMILIA/12345/72948
-#EXTINF:-1,[24H] - Eu a Patroa e as Crianças
-http://srvuhd.top:80/FAMILIA/12345/72949
-#EXTINF:-1,[24H] - Galinha Pintadinha
-http://srvuhd.top:80/FAMILIA/12345/72950
-#EXTINF:-1,[24H] - Guardiões da Galaxia
-http://srvuhd.top:80/FAMILIA/12345/72951
-#EXTINF:-1,[24H] - He-Man
-http://srvuhd.top:80/FAMILIA/12345/72952
-#EXTINF:-1,[24H] - Historias Disney
-http://srvuhd.top:80/FAMILIA/12345/72953
-#EXTINF:-1,[24H] - Pica Pau
-http://srvuhd.top:80/FAMILIA/12345/72954
-#EXTINF:-1,[24H] - Todo Mundo Odeia o Chris
-http://srvuhd.top:80/FAMILIA/12345/72955
-#EXTINF:-1,[24H] - 3 Palavrinhas
-http://srvuhd.top:80/FAMILIA/12345/72956
-#EXTINF:-1,[24H] - A Grande Familia
-http://srvuhd.top:80/FAMILIA/12345/72957
-#EXTINF:-1,[24H] - A Feiticeira
-http://srvuhd.top:80/FAMILIA/12345/72958
-#EXTINF:-1,[24H] - Mr. Bean
-http://srvuhd.top:80/FAMILIA/12345/72959
-#EXTINF:-1,[24H] - Friends - Temp 03
-http://srvuhd.top:80/FAMILIA/12345/72960
-#EXTINF:-1,[24H] - Scooby Doo
-http://srvuhd.top:80/FAMILIA/12345/72961
-#EXTINF:-1,[24H] - O Máskara
-http://srvuhd.top:80/FAMILIA/12345/72962
-#EXTINF:-1,[24H] - Tom E Jerry
-http://srvuhd.top:80/FAMILIA/12345/72963
-#EXTINF:-1,[24H] - Caverna Do Dragão
-http://srvuhd.top:80/FAMILIA/12345/72964
-#EXTINF:-1,[24H] - Galinha Pintadinha
-http://srvuhd.top:80/FAMILIA/12345/72965
-#EXTINF:-1,[24H] - Homem Aranha
-http://srvuhd.top:80/FAMILIA/12345/72966
-#EXTINF:-1,[24H] - Ben 10
-http://srvuhd.top:80/FAMILIA/12345/72967
-#EXTINF:-1,[24H] - Aladdin Desenho Animado
-http://srvuhd.top:80/FAMILIA/12345/72968
-#EXTINF:-1,[24H] - As Aventuras De Jackie Chan
-http://srvuhd.top:80/FAMILIA/12345/72969
-#EXTINF:-1,[24H] - The Big Bang Theory - Temp 1
-http://srvuhd.top:80/FAMILIA/12345/72970
-#EXTINF:-1,[24H] - Os Padrinhos Mágicos -
-http://srvuhd.top:80/FAMILIA/12345/72971
-#EXTINF:-1,[24H] - A Turma Da Monica 2
-http://srvuhd.top:80/FAMILIA/12345/72972
-#EXTINF:-1,[24H] - PJ Masks
-http://srvuhd.top:80/FAMILIA/12345/72973
-#EXTINF:-1,[24h] - 101 Dalmatas
-http://srvuhd.top:80/FAMILIA/12345/72974
-#EXTINF:-1,[24h] - Desenhos Biblicos 2
-http://srvuhd.top:80/FAMILIA/12345/72975
-#EXTINF:-1,[24h] - Johnny Test
-http://srvuhd.top:80/FAMILIA/12345/72976
-#EXTINF:-1,[24h] - Looney Tunes
-http://srvuhd.top:80/FAMILIA/12345/72977
-#EXTINF:-1,[24h] - Masha e o Urso 2
-http://srvuhd.top:80/FAMILIA/12345/72978
-#EXTINF:-1,[24h] - Os Backyardigans
-http://srvuhd.top:80/FAMILIA/12345/72979
-#EXTINF:-1,[24h] - Teletubbies
-http://srvuhd.top:80/FAMILIA/12345/72980
-#EXTINF:-1,[24H] - He Man Desenho 2
-http://srvuhd.top:80/FAMILIA/12345/72981
-#EXTINF:-1,[24H] - Jaspion
-http://srvuhd.top:80/FAMILIA/12345/72982
+#EXTINF:-1 tvg-id="" tvg-name="Sessão da Tarde 2 - 24h" tvg-logo="" group-title="Canais |  24 HORAS",Sessão da Tarde 2 - 24h
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/28240#EXTINF:-1 tvg-id="" tvg-name="South Park 24H" tvg-logo="" group-title="Canais |  24 HORAS",South Park 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/544
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution 24H" tvg-logo="https://i.imgur.com/3LTJ2Oj.gif" group-title="Canais | INFANTIL 24 HORAS",X-Men Evolution 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/1483
+#EXTINF:-1 tvg-id="" tvg-name="Alem da Imaginação - 24h" tvg-logo="" group-title="Canais |  24 HORAS",Alem da Imaginação - 24h
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/28241
+#EXTINF:-1 tvg-id="" tvg-name="Alem da Imaginação 2020 / 24h" tvg-logo="" group-title="Canais |  24 HORAS",Alem da Imaginação 2020 / 24h
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/28743
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X - 24h" tvg-logo="" group-title="Canais |  24 HORAS",Arquivo X - 24h
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/26712
+#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider 24H" tvg-logo="" group-title="Canais |  24 HORAS",Black Kamen Rider 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/537
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA T01 A 04 - 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",BOB ESPONJA T01 A 04 - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25633
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA T05 A 08 - 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",BOB ESPONJA T05 A 08 - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25640
+#EXTINF:-1 tvg-id="" tvg-name="Canal CSI 24H" tvg-logo="" group-title="Canais |  24 HORAS",Canal CSI 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/538
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Chapolin 2 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/19541
+#EXTINF:-1 tvg-id="" tvg-name="CHERNOBYL - 24H" tvg-logo="" group-title="Canais |  24 HORAS",CHERNOBYL - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25631
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/28657#EXTINF:-1 tvg-id="" tvg-name="Cine Terror HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Terror HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/28659
+#EXTINF:-1 tvg-id="" tvg-name="Cine Western - 24h" tvg-logo="" group-title="Canais |  24 HORAS",Cine Western - 24h
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/28742
+#EXTINF:-1 tvg-id="" tvg-name="DANIEL TIGRE - 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",DANIEL TIGRE - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25628
+#EXTINF:-1 tvg-id="" tvg-name="DE FÉRIAS COM O EX BRASIL - 24H" tvg-logo="" group-title="Canais |  24 HORAS",DE FÉRIAS COM O EX BRASIL - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25643
+#EXTINF:-1 tvg-id="" tvg-name="Cybercop 24H" tvg-logo="" group-title="Canais |  24 HORAS",Cybercop 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/1479
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO T01 A 06 - 24H" tvg-logo="" group-title="Canais |  24 HORAS",DOIS HOMENS E MEIO T01 A 06 - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25641
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO T07 A 12 - 24H" tvg-logo="" group-title="Canais |  24 HORAS",DOIS HOMENS E MEIO T07 A 12 - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25642
+#EXTINF:-1 tvg-id="" tvg-name="DR. House 1 24HR " tvg-logo="" group-title="Canais |  24 HORAS",DR. House 1 24HR 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/568
+#EXTINF:-1 tvg-id="" tvg-name="Dr. House 2 24H" tvg-logo="" group-title="Canais |  24 HORAS",Dr. House 2 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/20461
+#EXTINF:-1 tvg-id="" tvg-name="Dragoes  24H" tvg-logo="https://i.imgur.com/FjmeFap.jpg" group-title="Canais |  24 HORAS",Dragoes  24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/1480
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="" group-title="Canais |  24 HORAS",Eu a Patroa e as Crianças
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/321
+#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Familia da Pesada 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/1481
+#EXTINF:-1 tvg-id="" tvg-name="Familia Dinossauro  24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Familia Dinossauro  24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/569
 
-#EXTINF:-1,THE BIG BANG THEORY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31632
-#EXTINF:-1,Tom & Jerry
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31633
-#EXTINF:-1,3 ESPIÃS DEMAIS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31634
-#EXTINF:-1,3 PALAVRINHAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31635
-#EXTINF:-1,A TURMA DO ZÉ COLMÉIA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31636
-#EXTINF:-1,A PANTERA COR-DE-ROSA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31637
-#EXTINF:-1,A PEQUENA SEREIA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31638
-#EXTINF:-1,A PEQUENA SEREIA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31639
-#EXTINF:-1,A TURMA DO MANDA CHUVA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31640
-#EXTINF:-1,A VACA E O FRANGO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31641
-#EXTINF:-1,ALADDIN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31642
-#EXTINF:-1,ALF, O ETEIMOSO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31643
-#EXTINF:-1,ANIMANIACS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31644
-#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31645
-#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31646
-#EXTINF:-1,AS AVENTURAS DE TINTIM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31647
-#EXTINF:-1,AS MENINAS SUPERPODEROSAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31648
-#EXTINF:-1,AS TARTARUGAS NINJAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31649
-#EXTINF:-1,BABY LOONEY TUNES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31650
-#EXTINF:-1,BABY LOONEY TUNES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31651
-#EXTINF:-1,BATMAN - SÉRIE ANIMADA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31652
-#EXTINF:-1,BEN 10
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31653
-#EXTINF:-1,BEN 10 (2005)
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31654
-#EXTINF:-1,BEN 10 OMNIVERSE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31655
-#EXTINF:-1,BIBO PAI E BOBI FILHO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31656
-#EXTINF:-1,BANANAS DE PIJAMAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31657
-#EXTINF:-1,OS THUNDERMANS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31658
-#EXTINF:-1,BLACK KAMEN RIDER
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31659
-#EXTINF:-1,BOB ESPONJA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31660
-#EXTINF:-1,BOB ZOOM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31661
-#EXTINF:-1,AS MENINAS SUPER PODEROSAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31662
-#EXTINF:-1,BREAKING BAD ¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31663
-#EXTINF:-1,LULUZINHA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31664
-#EXTINF:-1,CARANGOS E MOTOCAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31665
-#EXTINF:-1,CASA DO MICKEY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31666
-#EXTINF:-1,SCOOBY DOO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31667
-#EXTINF:-1,CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31668
-#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE ASGARD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31669
-#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE HADES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31670
-#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31671
-#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31672
-#EXTINF:-1,CAVALO DE FOGO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31673
-#EXTINF:-1,CAVERNA DO DRAGÃO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31674
-#EXTINF:-1,CHAPOLIN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31675
-#EXTINF:-1,CHAVES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31676
-#EXTINF:-1,CHAVES DESENHO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31677
-#EXTINF:-1,Os Padrinhos Mágicos
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31678
-#EXTINF:-1,COMÉDIA SELVAGEM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31679
-#EXTINF:-1,CORAGEM CAO COVARDE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31680
-#EXTINF:-1,DE VOLTA PARA O FUTURO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31681
-#EXTINF:-1,BORUTO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31682
-#EXTINF:-1,DESENHOS BÍBLICOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31683
-#EXTINF:-1,DOIS HOMENS E MEIO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31684
-#EXTINF:-1,SÍTIO DO PICA-PAU AMARELO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31685
-#EXTINF:-1,DRAGON BALL - SAGA MAJIN BOO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31686
-#EXTINF:-1,DRAGON BALL GT
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31687
-#EXTINF:-1,DRAGON BALL SUPER¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31688
-#EXTINF:-1,DRAGON BALL²
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31689
-#EXTINF:-1,DRAKE E JOSH
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31690
-#EXTINF:-1,DUCK DODGERS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31691
-#EXTINF:-1,DUCKTALES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31692
-#EXTINF:-1,ESPECIAL BABY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31693
-#EXTINF:-1,EU A PATROA E AS CRIANÇAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31694
-#EXTINF:-1,EU SOU O MÁXIMO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31695
-#EXTINF:-1,FALCÃO AZUL E BIONICÃO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31696
-#EXTINF:-1,FAMILÍA DINOSSAUROS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31697
-#EXTINF:-1,FAMÍLIA DINOSSAUROS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31698
-#EXTINF:-1,FORMIGA ATOMICA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31699
-#EXTINF:-1,FUTURAMA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31700
-#EXTINF:-1,GALINHA PINTADINHA¹
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31701
-#EXTINF:-1,GARFIELD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31702
-#EXTINF:-1,KIDS TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31703
-#EXTINF:-1,GATO FELIX
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31704
-#EXTINF:-1,X-MEN - WOLVERINE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31705
-#EXTINF:-1,HE-MAN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31706
-#EXTINF:-1,MICKEY MOUSE, PATO DONALD E TICO E TECO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31707
-#EXTINF:-1,ICARLY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31708
-#EXTINF:-1,IRMÃO DE JOREL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31709
-#EXTINF:-1,JIRAIYA - O INCRÍVEL NINJA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31710
-#EXTINF:-1,JOHNNY BRAVO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31711
-#EXTINF:-1,JOHNNY TEST
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31712
-#EXTINF:-1,CARTOON GOSPEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31713
-#EXTINF:-1,POKEMON
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31714
-#EXTINF:-1,LEÃO DA MONTANHA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31715
-#EXTINF:-1,LIGA DA JUSTIÇA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31716
-#EXTINF:-1,LIGA DA JUSTIÇA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31717
-#EXTINF:-1,LIGA DOS SUPER MALVADOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31718
-#EXTINF:-1,LIGEIRINHO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31719
-#EXTINF:-1,LOONEY TUNES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31720
-#EXTINF:-1,LOONEY TUNES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31721
-#EXTINF:-1,BIBO PAI, BOB FILHO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31722
-#EXTINF:-1,MARINHEIRO POPEYE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31723
-#EXTINF:-1,MASHA E O URSO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31724
-#EXTINF:-1,MASTERCHEF
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31725
-#EXTINF:-1,MOSQUITO, MOSQUETE e MOSCARDO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31726
-#EXTINF:-1,MUNDO BITA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31727
-#EXTINF:-1,NARUTO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31728
-#EXTINF:-1,NARUTO SHIPPUDEN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31729
-#EXTINF:-1,O FANTASTICO MUNDO DE BOBBY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31730
-#EXTINF:-1,O INCRÍVEL MUNDO DE GUMBALL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31731
-#EXTINF:-1,O MUNDO DE BITA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31732
-#EXTINF:-1,SAKURA CARDS CAPTORS - ANIME
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31733
-#EXTINF:-1,OS CAÇA FANTASMAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31734
-#EXTINF:-1,OS FLINTSTONES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31735
-#EXTINF:-1,OS FLINTSTONES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31736
-#EXTINF:-1,OS HERCULÓIDES
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31737
-#EXTINF:-1,OS JETSONS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31738
-#EXTINF:-1,OS JETSONS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31739
-#EXTINF:-1,OS JOVENS TITÃS EM AÇÃO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31740
-#EXTINF:-1,OS SIMPSONS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31741
-#EXTINF:-1,OS SMURFS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31742
-#EXTINF:-1,X-MEN EVOLUTION
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31743
-#EXTINF:-1,PADRINHOS MÁGICOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31744
-#EXTINF:-1,PAPA-LÉGUAS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31745
-#EXTINF:-1,PATRULHA CANINA 24H
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31746
-#EXTINF:-1,PEPPA PIG
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31747
-#EXTINF:-1,A CASA DO MICKEY MOUSE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31748
-#EXTINF:-1,PICA-PAU
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31749
-#EXTINF:-1,PINK E O CÉREBRO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31750
-#EXTINF:-1,CAVALEIROS DO ZODÍACO - ÔMEGA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31751
-#EXTINF:-1,PODEROSO CHEFINHO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31752
-#EXTINF:-1,POPEYE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31753
-#EXTINF:-1,POWER RANGERS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31754
-#EXTINF:-1,SCOOBY DOO!
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31755
-#EXTINF:-1,SHE-RA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31756
-#EXTINF:-1,DIGIMON
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31757
-#EXTINF:-1,SOBRENATURAL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31758
-#EXTINF:-1,SPEED RACER 24H
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31759
-#EXTINF:-1,STAND-UP
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31760
-#EXTINF:-1,STREET FIGTHER
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31761
-#EXTINF:-1,SUPER AMIGOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31762
-#EXTINF:-1,SUPER CHOQUE
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31763
-#EXTINF:-1,THUNDERCATS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31764
-#EXTINF:-1,TODO MUNDO ODEIA O CHRIS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31765
-#EXTINF:-1,TOMA LA DA CÁ
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31766
-#EXTINF:-1,TURMA DO MANDA-CHUVA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31767
-#EXTINF:-1,FÁBULAS DA DISNEY
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31768
-#EXTINF:-1,UM MALUCO NO PEDAÇO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31769
-#EXTINF:-1,URSINHOS CARINHOSOS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31770
-#EXTINF:-1,PIRATAS DO ESPAÇO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31771
-#EXTINF:-1,VAI QUE COLA
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31772
-#EXTINF:-1,X-MAN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31773
-#EXTINF:-1,X-MEN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31774
-#EXTINF:-1,YU-GI-OH
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://163.172.103.202:8880/287994003793/287994003793/31775
+#EXTINF:-1 tvg-id="" tvg-name="Cine Aventura 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Aventura 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/549
+#EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Drama 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/550
+#EXTINF:-1 tvg-id="" tvg-name="Cine Family 24H" tvg-logo="" group-title="Canais |  24 HORAS",Cine Family 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/551
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fiction 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Fiction 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/536
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fun 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Fun 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/552
+#EXTINF:-1 tvg-id="" tvg-name="Cine Guerra 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Guerra 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/1477
+#EXTINF:-1 tvg-id="" tvg-name="Cine Horror 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Horror 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/553
+#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24H ULTRA HD" tvg-logo="" group-title="Canais |  24 HORAS",CINE KIDS 24H ULTRA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/554
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL - 24H" tvg-logo="" group-title="Canais |  24 HORAS",CINE MARVEL - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25486
+#EXTINF:-1 tvg-id="" tvg-name="CINE Nacionais 24H" tvg-logo="" group-title="Canais |  24 HORAS",CINE Nacionais 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/555
+#EXTINF:-1 tvg-id="" tvg-name="France 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="Canais | MUNDO",France 24 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/23530
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Homem-Aranha 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/566
+#EXTINF:-1 tvg-id="" tvg-name="IRMÃOS A OBRA - 24H" tvg-logo="" group-title="Canais |  24 HORAS",IRMÃOS A OBRA - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25625
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24H" tvg-logo="" group-title="Canais |  24 HORAS",Jaspion 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/570
+#EXTINF:-1 tvg-id="" tvg-name="Jiraya  O Incrivel Ninja 24H" tvg-logo="https://http2.mlstatic.com/dvd-colecao-jiraya-D_NQ_NP_773820-MLB25537680599_042017-F.jpg" group-title="Canais |  24 HORAS",Jiraya  O Incrivel Ninja 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/1475
+
+#EXTINF:-1 tvg-id="" tvg-name="LADY NIGHT - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LADY NIGHT - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25632
+#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LARGADOS E PELADOS - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25613
+#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS A TRIBO - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LARGADOS E PELADOS A TRIBO - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25482
+#EXTINF:-1 tvg-id="" tvg-name="Larva 24H" tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="Canais | INFANTIL 24 HORAS",Larva 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/1474
+#EXTINF:-1 tvg-id="" tvg-name="LIE TO ME - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LIE TO ME - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25644
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL DEMOLIDOR - 24H" tvg-logo="" group-title="Canais |  24 HORAS",MARVEL DEMOLIDOR - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25634
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi - 24H" tvg-logo="" group-title="Canais |  24 HORAS",Mazzaropi - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/27640
+#EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H" tvg-logo="" group-title="Canais |  24 HORAS",MR. Bean 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/546#EXTINF:-1 tvg-id="" tvg-name="Naruto 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Naruto 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/564
+#EXTINF:-1 tvg-id="" tvg-name="Os 3 patetas 24H" tvg-logo="" group-title="Canais |  24 HORAS",Os 3 patetas 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/19540
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Os Simpsons 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/563
+#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES - 24H" tvg-logo="" group-title="Canais |  24 HORAS",OS TRAPALHÕES - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25635
+#EXTINF:-1 tvg-id="" tvg-name="SPARTACUS - 24H" tvg-logo="" group-title="Canais |  24 HORAS",SPARTACUS - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25637
+
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Peppa Pig 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/562
+#EXTINF:-1 tvg-id="" tvg-name="Pocoyo 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Pocoyo 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/561
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Pokemon 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/560
+#EXTINF:-1 tvg-id="" tvg-name="POLICIA 24 HORAS - 24H" tvg-logo="" group-title="Canais |  24 HORAS",POLICIA 24 HORAS - 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25621
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL HD" tvg-logo="" group-title="Canais I Reality",POWER COUPLE BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/31715
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 1" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25573
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 10" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 10
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25582
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 2" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25574
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 3" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25575
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 4" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25576
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 5" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 5
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25577
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 6" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 6
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25578
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 7" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 7
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25579
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 8" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25580
+#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 9" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 9
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25581
+
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 1" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25558
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 10" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 10
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25567
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 11" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 11
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25568
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 12" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 12
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25569
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 13" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 13
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25570
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 14" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 14
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25571
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 15" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 15
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25572
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 2" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25559
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 3" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25560
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 4" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25561
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 5" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 5
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25562
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 6" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 6
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25563
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 7" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 7
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25564
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 8" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25565
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural Temporada 9" tvg-logo="" group-title="Canais | SUPERNATURAL 24h",Supernatural Temporada 9
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/25566
+#EXTINF:-1 tvg-id="" tvg-name="Two And a Half Man 24H" tvg-logo="" group-title="Canais |  24 HORAS",Two And a Half Man 24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/542
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaco  24H" tvg-logo="" group-title="Canais |  24 HORAS",Um Maluco No Pedaco  24H
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]SERVIDOR24HRS[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv.maxptv.net:8080/Danilooo/Camisaa/541
