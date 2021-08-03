@@ -6,6 +6,54 @@
 #EXTM3U
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -CANAIS 24HRS[/B][/COLOR]
 http://distv.
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE 007" tvg-logo="" group-title="SESSÃO CINEMA",CINE 007
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180760
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="" group-title="SESSÃO CINEMA",CINE DISNEY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180762
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAROESTE" tvg-logo="" group-title="SESSÃO CINEMA",CINE FAROESTE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180761
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="" group-title="SESSÃO CINEMA",CINE MARVEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180759
+#EXTINF:-1 tvg-id="" tvg-name="CINE SESSÃO DA TARDE" tvg-logo="" group-title="SESSÃO CINEMA",CINE SESSÃO DA TARDE
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180758
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://i.imgur.com/VvykjfV.png" group-title="SESSÃO CINEMA",CINE SKY 01
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/159026
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 01
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180746
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://i.imgur.com/VvykjfV.png" group-title="SESSÃO CINEMA",CINE SKY 02
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/159027
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 02
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180747
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://i.imgur.com/VvykjfV.png" group-title="SESSÃO CINEMA",CINE SKY 03
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/159028
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 03
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180748
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://i.imgur.com/VvykjfV.png" group-title="SESSÃO CINEMA",CINE SKY 04
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/159029
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 04
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180749
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://i.imgur.com/VvykjfV.png" group-title="SESSÃO CINEMA",CINE SKY 05
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/159030
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 05
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180750
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://i.imgur.com/VvykjfV.png" group-title="SESSÃO CINEMA",CINE SKY 06
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/159031
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 06
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180751
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://i.imgur.com/VvykjfV.png" group-title="SESSÃO CINEMA",CINE SKY 07
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/159032
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 07
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180752
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://i.imgur.com/VvykjfV.png" group-title="SESSÃO CINEMA",CINE SKY 08
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/159033
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 08
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180753
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 09
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180754
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="" group-title="SESSÃO CINEMA",CINE SKY 10
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/180755
+
 #EXTINF:-1 tvg-id="" tvg-name="24H  NIPTUCK ESTÉTICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H  NIPTUCK ESTÉTICA
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/181010
 #EXTINF:-1 tvg-id="" tvg-name="24H 3 PALAVRINHAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H 3 PALAVRINHAS
