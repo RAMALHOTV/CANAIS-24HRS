@@ -7,171 +7,635 @@
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -CANAIS 24HRS[/B][/COLOR]
 http://distv.
 
-#EXTINF:-1 tvg-ID="" tvg-name="ALADIN | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",ALADIN | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13443
-#EXTINF:-1 tvg-ID="" tvg-name="As Meninas Superpoderosas | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",As Meninas Superpoderosas | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13444
-#EXTINF:-1 tvg-ID="" tvg-name="Ben 10 | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Ben 10 | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13445
-#EXTINF:-1 tvg-ID="" tvg-name="Bob Esponja | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Bob Esponja | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13446
-#EXTINF:-1 tvg-ID="" tvg-name="Breaking Bad | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",Breaking Bad | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13447
-#EXTINF:-1 tvg-ID="" tvg-name="Cao Coragem | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Cao Coragem | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13448
-#EXTINF:-1 tvg-ID="" tvg-name="Caverna do Dragão | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Caverna do Dragão | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13449
-#EXTINF:-1 tvg-ID="" tvg-name="Chapolin Colorado | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Chapolin Colorado | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13450
-#EXTINF:-1 tvg-ID="" tvg-name="Chaves | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Chaves | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13451
-#EXTINF:-1 tvg-ID="" tvg-name="Chaves Desenho | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Chaves Desenho | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13452
-#EXTINF:-1 tvg-ID="" tvg-name="Denis o Pimentinha | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Denis o Pimentinha | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13453
-#EXTINF:-1 tvg-ID="" tvg-name="Desenhos Biblicos | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Desenhos Biblicos | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13454
-#EXTINF:-1 tvg-ID="" tvg-name="Desenhos Disney | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Desenhos Disney | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13455
-#EXTINF:-1 tvg-ID="" tvg-name="Digimon | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Digimon | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13456
-#EXTINF:-1 tvg-ID="" tvg-name="Dois Homens e Meio | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",Dois Homens e Meio | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13457
-#EXTINF:-1 tvg-ID="" tvg-name="Doug | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Doug | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13458
-#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Dragon Ball | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13459
-#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Super | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Dragon Ball Super | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13460
-#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Z | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Dragon Ball Z | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13461
-#EXTINF:-1 tvg-ID="" tvg-name="Eu a Patroa e as Crianças | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",Eu a Patroa e as Crianças | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13462
-#EXTINF:-1 tvg-ID="" tvg-name="Formiga Atómica | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Formiga Atómica | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13463
-#EXTINF:-1 tvg-ID="" tvg-name="Galinha Pintadinha | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Galinha Pintadinha | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13464
-#EXTINF:-1 tvg-ID="" tvg-name="Guardiões da Galaxia | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Guardiões da Galaxia | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13465
-#EXTINF:-1 tvg-ID="" tvg-name="He-Man | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",He-Man | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13466
-#EXTINF:-1 tvg-ID="" tvg-name="Hércules | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Hércules | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13467
-#EXTINF:-1 tvg-ID="" tvg-name="Historias Disney | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Historias Disney | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13468
-#EXTINF:-1 tvg-ID="" tvg-name="HOMEM ARANHA | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",HOMEM ARANHA | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13469
-#EXTINF:-1 tvg-ID="" tvg-name="Homem de Ferro | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Homem de Ferro | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13470
-#EXTINF:-1 tvg-ID="" tvg-name="HOMEMS DE PRETO | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",HOMEMS DE PRETO | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13471
-#EXTINF:-1 tvg-ID="" tvg-name="Incrível Hulk | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Incrível Hulk | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13472
-#EXTINF:-1 tvg-ID="" tvg-name="Jack-Chan | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Jack-Chan | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13473
-#EXTINF:-1 tvg-ID="" tvg-name="Jaspion | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Jaspion | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13474
-#EXTINF:-1 tvg-ID="" tvg-name="JIRAYA O Incrível Ninja | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",JIRAYA O Incrível Ninja | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13475
-#EXTINF:-1 tvg-ID="" tvg-name="Kenan e Kel | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Kenan e Kel | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13476
-#EXTINF:-1 tvg-ID="" tvg-name="Luluzinha | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Luluzinha | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13477
-#EXTINF:-1 tvg-ID="" tvg-name="Medabots | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Medabots | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13478
-#EXTINF:-1 tvg-ID="" tvg-name="MegaMan | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",MegaMan | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13479
-#EXTINF:-1 tvg-ID="" tvg-name="Mortal Kombat | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Mortal Kombat | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13480
-#EXTINF:-1 tvg-ID="" tvg-name="Mr.Ben | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Mr.Ben | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13481
-#EXTINF:-1 tvg-ID="" tvg-name="NARUTO | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",NARUTO | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13482
-#EXTINF:-1 tvg-ID="" tvg-name="Naruto Shippuden DUB | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Naruto Shippuden DUB | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13483
-#EXTINF:-1 tvg-ID="" tvg-name="O Fantástico Mundo de Bobby | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",O Fantástico Mundo de Bobby | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13484
-#EXTINF:-1 tvg-ID="" tvg-name="O INSPETOR | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",O INSPETOR | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13485
-#EXTINF:-1 tvg-ID="" tvg-name="O MASKARA | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",O MASKARA | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13486
-#EXTINF:-1 tvg-ID="" tvg-name="Os Anjinhos - Rugrats | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Os Anjinhos - Rugrats | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13487
-#EXTINF:-1 tvg-ID="" tvg-name="Os Cavaleiros do Zodiaco | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Os Cavaleiros do Zodiaco | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13488
-#EXTINF:-1 tvg-ID="" tvg-name="Os Flintstones | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Os Flintstones | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13489
-#EXTINF:-1 tvg-ID="" tvg-name="Os Simpsons | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Os Simpsons | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13490
-#EXTINF:-1 tvg-ID="" tvg-name="Os Vingadores | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Os Vingadores | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13491
-#EXTINF:-1 tvg-ID="" tvg-name="Papa-Léguas | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Papa-Léguas | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13492
-#EXTINF:-1 tvg-ID="" tvg-name="Peppa Pig | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Peppa Pig | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13493
-#EXTINF:-1 tvg-ID="" tvg-name="Pernalonga | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Pernalonga | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13494
-#EXTINF:-1 tvg-ID="" tvg-name="Phineas e Ferb | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Phineas e Ferb | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13495
-#EXTINF:-1 tvg-ID="" tvg-name="Pica Pau | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Pica Pau | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13496
-#EXTINF:-1 tvg-ID="" tvg-name="Pink-e-Cerebro | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Pink-e-Cerebro | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13497
-#EXTINF:-1 tvg-ID="" tvg-name="Pokemon | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Pokemon | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13498
-#EXTINF:-1 tvg-ID="" tvg-name="Popeye O Marinheiro | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Popeye O Marinheiro | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13499
-#EXTINF:-1 tvg-ID="" tvg-name="Rambo | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",Rambo | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13500
-#EXTINF:-1 tvg-ID="" tvg-name="Scooby-Doo | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Scooby-Doo | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13501
-#EXTINF:-1 tvg-ID="" tvg-name="Smallville | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",Smallville | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13502
-#EXTINF:-1 tvg-ID="" tvg-name="Sobrenatural | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",Sobrenatural | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13503
-#EXTINF:-1 tvg-ID="" tvg-name="South Park | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",South Park | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13504
-#EXTINF:-1 tvg-ID="" tvg-name="Steven Universe | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Steven Universe | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13505
-#EXTINF:-1 tvg-ID="" tvg-name="Superman | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",Superman | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13506
-#EXTINF:-1 tvg-ID="" tvg-name="Tartarugas Ninjas | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Tartarugas Ninjas | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13507
-#EXTINF:-1 tvg-ID="" tvg-name="Thundercats | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Thundercats | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13508
-#EXTINF:-1 tvg-ID="" tvg-name="Timao e Pumba | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Timao e Pumba | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13509
-#EXTINF:-1 tvg-ID="" tvg-name="Todo Mundo Odeia o Chris | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Todo Mundo Odeia o Chris | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13510
-#EXTINF:-1 tvg-ID="" tvg-name="Tom & Jerry | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Tom & Jerry | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13511
-#EXTINF:-1 tvg-ID="" tvg-name="Tres Espias Demais | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Tres Espias Demais | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13512
-#EXTINF:-1 tvg-ID="" tvg-name="Um Maluco no Pedaço | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",Um Maluco no Pedaço | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13513
-#EXTINF:-1 tvg-ID="" tvg-name="Uma Família da Pesada | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Uma Família da Pesada | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13514
-#EXTINF:-1 tvg-ID="" tvg-name="Ursinhos Carinhos | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Ursinhos Carinhos | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13515
-#EXTINF:-1 tvg-ID="" tvg-name="X-MAN | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",X-MAN | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13516
-#EXTINF:-1 tvg-ID="" tvg-name="Xena | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Xena | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13517
-#EXTINF:-1 tvg-ID="" tvg-name="YU-GI-OH | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",YU-GI-OH | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13518
-#EXTINF:-1 tvg-ID="" tvg-name="YU-YU-Hakusho | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",YU-YU-Hakusho | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13519
-#EXTINF:-1 tvg-ID="" tvg-name="3 Palavrinhas | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",3 Palavrinhas | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13520
-#EXTINF:-1 tvg-ID="" tvg-name="A Grande Familia | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",A Grande Familia | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13521
-#EXTINF:-1 tvg-ID="" tvg-name="Bita e os Animais | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Bita e os Animais | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13522
-#EXTINF:-1 tvg-ID="" tvg-name="Liga da Justica | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Liga da Justica | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13523
-#EXTINF:-1 tvg-ID="" tvg-name="Vai que Cola | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] 24 Horas",Vai que Cola | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13524
-#EXTINF:-1 tvg-ID="" tvg-name="Super Choque | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",Super Choque | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13525
-#EXTINF:-1 tvg-ID="" tvg-name="A Feiticeira | 24H" tvg-logo="https://i.ibb.co/8zxJrLj/unnamed.jpg" group-title="[C] Desenhos 24H",A Feiticeira | 24H
-http://54.39.18.90:80/evandro2020/evandro2020/13526
+#EXTINF:-1,24H A CASA DO MICKEY MOUSE
+http://conexaoonline.life:80/162466827635269/169924/27192
+#EXTINF:-1,24H A PANTERA COR-DE-ROSA
+http://conexaoonline.life:80/162466827635269/169924/27205
+#EXTINF:-1,24H BABY LOONEY TUNES
+http://conexaoonline.life:80/162466827635269/169924/27188
+#EXTINF:-1,24H BEN 10
+http://conexaoonline.life:80/162466827635269/169924/27195
+#EXTINF:-1,24H BOB ESPONJA
+http://conexaoonline.life:80/162466827635269/169924/27225
+#EXTINF:-1,24H CAPITÃO PLANETA
+http://conexaoonline.life:80/162466827635269/169924/27198
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+http://conexaoonline.life:80/162466827635269/169924/27201
+#EXTINF:-1,24H CORAGEM O CÃO COVARDE
+http://conexaoonline.life:80/162466827635269/169924/27204
+#EXTINF:-1,24H DIGIMON
+http://conexaoonline.life:80/162466827635269/169924/27185
+#EXTINF:-1,24H DOUG
+http://conexaoonline.life:80/162466827635269/169924/27186
+#EXTINF:-1,24H DRAGON BALL SUPER
+http://conexaoonline.life:80/162466827635269/169924/27229
+#EXTINF:-1,24H FUTURAMA
+http://conexaoonline.life:80/162466827635269/169924/27218
+#EXTINF:-1,24H GALINHA PINTADINHA
+http://conexaoonline.life:80/162466827635269/169924/27228
+#EXTINF:-1,24H HE-MAN
+http://conexaoonline.life:80/162466827635269/169924/27219
+#EXTINF:-1,24H KENAN E KEL
+http://conexaoonline.life:80/162466827635269/169924/27207
+#EXTINF:-1,24H LULUZINHA
+http://conexaoonline.life:80/162466827635269/169924/27187
+#EXTINF:-1,24H MICKEY CLASSICO
+http://conexaoonline.life:80/162466827635269/169924/27191
+#EXTINF:-1,24H NARUTO
+http://conexaoonline.life:80/162466827635269/169924/27213
+#EXTINF:-1,24H OS CAVALEIROS DO ZODIACO
+http://conexaoonline.life:80/162466827635269/169924/27193
+#EXTINF:-1,24H OS PADRINHOS MÁGICOS
+http://conexaoonline.life:80/162466827635269/169924/27210
+#EXTINF:-1,24H OS SIMPSONS
+http://conexaoonline.life:80/162466827635269/169924/27211
+#EXTINF:-1,24H PICA-PAU
+http://conexaoonline.life:80/162466827635269/169924/27189
+#EXTINF:-1,24H POPEYE
+http://conexaoonline.life:80/162466827635269/169924/27224
+#EXTINF:-1,24H SCOOBY-DOO
+http://conexaoonline.life:80/162466827635269/169924/27216
+#EXTINF:-1,24H SOUTH PARK
+http://conexaoonline.life:80/162466827635269/169924/27215
+#EXTINF:-1,24H AS AVENTURAS DE TOM & JERRY
+http://conexaoonline.life:80/162466827635269/169924/27223
+#EXTINF:-1,24H TURMA DA MONICA
+http://conexaoonline.life:80/162466827635269/169924/27202
+#EXTINF:-1,24H 3 PALAVRINHAS
+http://conexaoonline.life:80/162466827635269/169924/373
+#EXTINF:-1,24H APENAS UM SHOW
+http://conexaoonline.life:80/162466827635269/169924/382
+#EXTINF:-1,24H AS TARTARUGAS NINJAS CLASSICO
+http://conexaoonline.life:80/162466827635269/169924/383
+#EXTINF:-1,24H BOB ZOOM
+http://conexaoonline.life:80/162466827635269/169924/394
+#EXTINF:-1,24H CASCÃO MARATONA
+http://conexaoonline.life:80/162466827635269/169924/399
+#EXTINF:-1,24H CHAVES
+http://conexaoonline.life:80/162466827635269/169924/403
+#EXTINF:-1,24H DENIS PIMENTINHA
+http://conexaoonline.life:80/162466827635269/169924/25534
+#EXTINF:-1,24H MICKEY DONALD E PATETA
+http://conexaoonline.life:80/162466827635269/169924/413
+#EXTINF:-1,24H FAMILIA URSO
+http://conexaoonline.life:80/162466827635269/169924/25754
+#EXTINF:-1,24H HOMEM ARANHA
+http://conexaoonline.life:80/162466827635269/169924/25753
+#EXTINF:-1,24H JASPION E JONNY QUEST
+http://conexaoonline.life:80/162466827635269/169924/447
+#EXTINF:-1,24H PADRINHOS MAGICOS E PICA PAU
+http://conexaoonline.life:80/162466827635269/169924/477
+#EXTINF:-1,24H PATRULHA CANINA
+http://conexaoonline.life:80/162466827635269/169924/20635
+#EXTINF:-1,24H PEPA PIG
+http://conexaoonline.life:80/162466827635269/169924/2173
+#EXTINF:-1,24H PICA PAU TOM E JERRY
+http://conexaoonline.life:80/162466827635269/169924/478
+#EXTINF:-1,24H POCOYO
+http://conexaoonline.life:80/162466827635269/169924/480
+#EXTINF:-1,24H URSINHOS CARINHOSOS E  TOM E JERRY
+http://conexaoonline.life:80/162466827635269/169924/495
+#EXTINF:-1,24H SITIO DO PICA PAU AMARELO
+http://conexaoonline.life:80/162466827635269/169924/42040
+#EXTINF:-1,24H BUBU E AS CORUJINHAS
+http://conexaoonline.life:80/162466827635269/169924/59518
+#EXTINF:-1,24H O SHOW DO GARFIELD
+http://conexaoonline.life:80/162466827635269/169924/59520
+#EXTINF:-1,24H DANIEL TIGRE
+http://conexaoonline.life:80/162466827635269/169924/59522
+#EXTINF:-1,24H POLLY POCKET
+http://conexaoonline.life:80/162466827635269/169924/59523
+#EXTINF:-1,24H LOUIE
+http://conexaoonline.life:80/162466827635269/169924/59524
+#EXTINF:-1,24H JESUS UM REINO SEM FRONTEIRA
+http://conexaoonline.life:80/162466827635269/169924/59526
+#EXTINF:-1,24H AVATAR A LENDA DE KORA
+http://conexaoonline.life:80/162466827635269/169924/59527
+#EXTINF:-1,24H GALINHA PINTADINHA MINI
+http://conexaoonline.life:80/162466827635269/169924/59529
+#EXTINF:-1,24H CANÇÕES DE NINAR
+http://conexaoonline.life:80/162466827635269/169924/59530
+#EXTINF:-1,24H PEPE LEGAL
+http://conexaoonline.life:80/162466827635269/169924/59532
+#EXTINF:-1,24H SONIC THE HEDGEHOG
+http://conexaoonline.life:80/162466827635269/169924/59533
+#EXTINF:-1,24H OS ANIMANIACS
+http://conexaoonline.life:80/162466827635269/169924/59538
+#EXTINF:-1,24H OS SNORKS
+http://conexaoonline.life:80/162466827635269/169924/59550
+#EXTINF:-1,24H TOM & JERRY CLASSICO
+http://conexaoonline.life:80/162466827635269/169924/59551
+#EXTINF:-1,24H CHANGEMAN
+http://conexaoonline.life:80/162466827635269/169924/59553
+#EXTINF:-1,24H IRMÃO DO JOREL
+http://conexaoonline.life:80/162466827635269/169924/59555
+#EXTINF:-1,24H BLACK KAMEN RIDER
+http://conexaoonline.life:80/162466827635269/169924/59556
+#EXTINF:-1,24H OS HERCULÓIDES
+http://conexaoonline.life:80/162466827635269/169924/59559
+#EXTINF:-1,24H DRAGONBALL CLASSICO
+http://conexaoonline.life:80/162466827635269/169924/59563
+#EXTINF:-1,24H A TURMA DA PANTERA COR-DE-ROSA
+http://conexaoonline.life:80/162466827635269/169924/59564
+#EXTINF:-1,24H TURMA DO RONALDINHO GAUCHO
+http://conexaoonline.life:80/162466827635269/169924/59565
+#EXTINF:-1,24H O PODEROSO MIGTHOR
+http://conexaoonline.life:80/162466827635269/169924/59566
+#EXTINF:-1,24H OS SMURFS
+http://conexaoonline.life:80/162466827635269/169924/59567
+#EXTINF:-1,24H PERDIDO NAS ESTRELAS
+http://conexaoonline.life:80/162466827635269/169924/59568
+#EXTINF:-1,24H PLIC E PLOC
+http://conexaoonline.life:80/162466827635269/169924/59569
+#EXTINF:-1,24H ROBOCOP DESENHO
+http://conexaoonline.life:80/162466827635269/169924/59570
+#EXTINF:-1,24H SCOOBY-DOO E SCOOBY-LOO
+http://conexaoonline.life:80/162466827635269/169924/59571
+#EXTINF:-1,24H SURFISTA PRATEADO
+http://conexaoonline.life:80/162466827635269/169924/59572
+#EXTINF:-1,24H TARZAN
+http://conexaoonline.life:80/162466827635269/169924/59574
+#EXTINF:-1,24H TV COLOSSO
+http://conexaoonline.life:80/162466827635269/169924/59576
+#EXTINF:-1,24H OS GÁRGULAS
+http://conexaoonline.life:80/162466827635269/169924/59578
+#EXTINF:-1,24H COMANDOS EM AÇÃO
+http://conexaoonline.life:80/162466827635269/169924/59581
+#EXTINF:-1,24H FREAKAZOID
+http://conexaoonline.life:80/162466827635269/169924/59582
+#EXTINF:-1,24H JIBAN
+http://conexaoonline.life:80/162466827635269/169924/59583
+#EXTINF:-1,24H BICROSSERS
+http://conexaoonline.life:80/162466827635269/169924/59585
+#EXTINF:-1,24H A VACA E O FRANGO
+http://conexaoonline.life:80/162466827635269/169924/59587
+#EXTINF:-1,24H CASTORES PIRADOS
+http://conexaoonline.life:80/162466827635269/169924/59588
+#EXTINF:-1,24H FAISCA E FUMAÇA
+http://conexaoonline.life:80/162466827635269/169924/59589
+#EXTINF:-1,24H GATO FELIX
+http://conexaoonline.life:80/162466827635269/169924/59590
+#EXTINF:-1,24H BANANAS DE PIJAMAS DESENHO
+http://conexaoonline.life:80/162466827635269/169924/59594
+#EXTINF:-1,24H OS CAÇA FANTASMA DESENHO
+http://conexaoonline.life:80/162466827635269/169924/59596
+#EXTINF:-1,24H SHE-RA CLASSICA
+http://conexaoonline.life:80/162466827635269/169924/59597
+#EXTINF:-1,24H PUNKY A LEVADA DA BRECA
+http://conexaoonline.life:80/162466827635269/169924/59598
+#EXTINF:-1,24H BOOBA
+http://conexaoonline.life:80/162466827635269/169924/59601
+#EXTINF:-1,24H OS URSINHOS CARINHOSOS
+http://conexaoonline.life:80/162466827635269/169924/59603
+#EXTINF:-1,24H CAPITÃO CAVERNA
+http://conexaoonline.life:80/162466827635269/169924/59604
+#EXTINF:-1,24H MARSHA E O URSO
+http://conexaoonline.life:80/162466827635269/169924/59605
+#EXTINF:-1,24H TRÊS ESPIÃS DEMAIS
+http://conexaoonline.life:80/162466827635269/169924/59606
+#EXTINF:-1,24H TAZ MANIA
+http://conexaoonline.life:80/162466827635269/169924/59607
+#EXTINF:-1,24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04
+http://conexaoonline.life:80/162466827635269/169924/59608
+#EXTINF:-1,24H OS JOVENS TITÃS EM AÇÃO T05
+http://conexaoonline.life:80/162466827635269/169924/59609
+#EXTINF:-1,24H BOB CONSTRUTOR 1999
+http://conexaoonline.life:80/162466827635269/169924/59610
+#EXTINF:-1,24H CONTOS ASSUSTADORES DA MASHA
+http://conexaoonline.life:80/162466827635269/169924/59613
+#EXTINF:-1,24H TV QUACK PACK
+http://conexaoonline.life:80/162466827635269/169924/59614
+#EXTINF:-1,24H CHAVES MULTISHOW
+http://conexaoonline.life:80/162466827635269/169924/59616
+#EXTINF:-1,24H SUPERCAMPEÕES
+http://conexaoonline.life:80/162466827635269/169924/59617
+#EXTINF:-1,24H SUPERAMIGOS
+http://conexaoonline.life:80/162466827635269/169924/59618
+#EXTINF:-1,24H STREET FIGHTER
+http://conexaoonline.life:80/162466827635269/169924/59619
+#EXTINF:-1,24H SHAZAAM
+http://conexaoonline.life:80/162466827635269/169924/59620
+#EXTINF:-1,24H SAMURAI JACK
+http://conexaoonline.life:80/162466827635269/169924/59621
+#EXTINF:-1,24H A VIDA MODERNA DE ROCKO
+http://conexaoonline.life:80/162466827635269/169924/59622
+#EXTINF:-1,24H DRAGON BALL LONGAS
+http://conexaoonline.life:80/162466827635269/169924/59623
+#EXTINF:-1,24H REN E STIMPY
+http://conexaoonline.life:80/162466827635269/169924/59624
+#EXTINF:-1,24H RAMBO DESENHO
+http://conexaoonline.life:80/162466827635269/169924/59625
+#EXTINF:-1,24H POWER RANGERS CLASSICO 
+http://conexaoonline.life:80/162466827635269/169924/59626
+#EXTINF:-1,24H POLE POSITION
+http://conexaoonline.life:80/162466827635269/169924/59627
+#EXTINF:-1,24H PINK E O CEREBRO
+http://conexaoonline.life:80/162466827635269/169924/59628
+#EXTINF:-1,24H O PEQUENO SCOOBY-DOO
+http://conexaoonline.life:80/162466827635269/169924/59630
+#EXTINF:-1,24H PAPA LÉGUAS
+http://conexaoonline.life:80/162466827635269/169924/59631
+#EXTINF:-1,24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA
+http://conexaoonline.life:80/162466827635269/169924/59632
+#EXTINF:-1,24H O PEQUENO URSO
+http://conexaoonline.life:80/162466827635269/169924/59633
+#EXTINF:-1,24H 44 GATOS
+http://conexaoonline.life:80/162466827635269/169924/59634
+#EXTINF:-1,24H MUMIAS VIVAS
+http://conexaoonline.life:80/162466827635269/169924/59635
+#EXTINF:-1,24H MISTER MAKER
+http://conexaoonline.life:80/162466827635269/169924/59636
+#EXTINF:-1,24H MORANGUINHO AVENTURAS EM TUTTI FRUTI
+http://conexaoonline.life:80/162466827635269/169924/59637
+#EXTINF:-1,24H A TURMA DO ZÉ COLMÉIA
+http://conexaoonline.life:80/162466827635269/169924/59639
+#EXTINF:-1,24H O MANDALORIANO T01
+http://conexaoonline.life:80/162466827635269/169924/59640
+#EXTINF:-1,24H DRAGONBALL Z SAGA SAYAJIN
+http://conexaoonline.life:80/162466827635269/169924/59642
+#EXTINF:-1,24H DRAGONBALL Z SAGA NAMEKUSEI
+http://conexaoonline.life:80/162466827635269/169924/59643
+#EXTINF:-1,24H DRAGONBALL Z SAGA FREEZA
+http://conexaoonline.life:80/162466827635269/169924/59644
+#EXTINF:-1,24H DRAGONBALL Z SAGA ANDROIDES
+http://conexaoonline.life:80/162466827635269/169924/59645
+#EXTINF:-1,24H DRAGONBALL Z SAGA CELL
+http://conexaoonline.life:80/162466827635269/169924/59646
+#EXTINF:-1,24H DRAGONBALL Z SAGA TORNEIO DO CELL
+http://conexaoonline.life:80/162466827635269/169924/59647
+#EXTINF:-1,24H DRAGONBALL Z SAGA SAYAMAN
+http://conexaoonline.life:80/162466827635269/169924/59648
+#EXTINF:-1,24H DRAGONBALL Z SAGA BABIDI
+http://conexaoonline.life:80/162466827635269/169924/59649
+#EXTINF:-1,24H DRAGONBALL Z SAGA MAJINBU
+http://conexaoonline.life:80/162466827635269/169924/59650
+#EXTINF:-1,24H MEU AMIGÃOZÃO
+http://conexaoonline.life:80/162466827635269/169924/59652
+#EXTINF:-1,24H ANIMAZOO
+http://conexaoonline.life:80/162466827635269/169924/59653
+#EXTINF:-1,24H OS BACKYARDIGANS
+http://conexaoonline.life:80/162466827635269/169924/59654
+#EXTINF:-1,24H BATMAN E ROBIN CLASSICO
+http://conexaoonline.life:80/162466827635269/169924/59655
+#EXTINF:-1,24H SAKURA CARDCAPTORS
+http://conexaoonline.life:80/162466827635269/169924/59656
+#EXTINF:-1,24H BEN 10 OMNIVERSE
+http://conexaoonline.life:80/162466827635269/169924/59657
+#EXTINF:-1,24H SUPER CHOQUE
+http://conexaoonline.life:80/162466827635269/169924/59658
+#EXTINF:-1,24H BRAVESTAR
+http://conexaoonline.life:80/162466827635269/169924/59659
+#EXTINF:-1,24H FRANKSTEIN JR E OS IMPOSSIVEÍS
+http://conexaoonline.life:80/162466827635269/169924/59660
+#EXTINF:-1,24H O XODÓ DA VOVÓ
+http://conexaoonline.life:80/162466827635269/169924/59661
+#EXTINF:-1,24H WOLVERINE E OS X-MEN
+http://conexaoonline.life:80/162466827635269/169924/59673
+#EXTINF:-1,24H CORAGEM O CÃO COVARDE
+http://conexaoonline.life:80/162466827635269/169924/59674
+#EXTINF:-1,24H CYBERCOPS
+http://conexaoonline.life:80/162466827635269/169924/59675
+#EXTINF:-1,24H DRAKE E JOSH
+http://conexaoonline.life:80/162466827635269/169924/59676
+#EXTINF:-1,24H DE VOLTA PARA O FUTURO DESENHO
+http://conexaoonline.life:80/162466827635269/169924/59677
+#EXTINF:-1,24H DESENCANTO
+http://conexaoonline.life:80/162466827635269/169924/59678
+#EXTINF:-1,24H AS AVENTURAS DE TOM E JERRY
+http://conexaoonline.life:80/162466827635269/169924/59679
+#EXTINF:-1,24H DESENHOS BIBLICOS
+http://conexaoonline.life:80/162466827635269/169924/59680
+#EXTINF:-1,24H MEGAMAN CLASSICO
+http://conexaoonline.life:80/162466827635269/169924/59681
+#EXTINF:-1,24H OS 7A
+http://conexaoonline.life:80/162466827635269/169924/59682
+#EXTINF:-1,24H O QUE HÁ DE NOVO SCOOBY DOO?
+http://conexaoonline.life:80/162466827635269/169924/59683
+#EXTINF:-1,24H QUE LEGAL SCOOBY DOO
+http://conexaoonline.life:80/162466827635269/169924/59684
+#EXTINF:-1,24H SILVERHAWKS
+http://conexaoonline.life:80/162466827635269/169924/59685
+#EXTINF:-1,24H LEGO UMA AVENTURA NA CIDADE
+http://conexaoonline.life:80/162466827635269/169924/59686
+#EXTINF:-1,24H DUCK TALES CLÁSSICO
+http://conexaoonline.life:80/162466827635269/169924/59689
+#EXTINF:-1,24H FÁBULAS DA DISNEY
+http://conexaoonline.life:80/162466827635269/169924/59690
+#EXTINF:-1,24H FORMIGA ATÔMICA
+http://conexaoonline.life:80/162466827635269/169924/59694
+#EXTINF:-1,24H GALINHA BABY
+http://conexaoonline.life:80/162466827635269/169924/59695
+#EXTINF:-1,24H GOOGLE FIVE
+http://conexaoonline.life:80/162466827635269/169924/59696
+#EXTINF:-1,24H O SHOW DOS LOONEY TUNES
+http://conexaoonline.life:80/162466827635269/169924/59697
+#EXTINF:-1,24H O INCRÍVEL MUNDO DE GUMBALL
+http://conexaoonline.life:80/162466827635269/169924/59698
+#EXTINF:-1,24H LION MAN
+http://conexaoonline.life:80/162466827635269/169924/59700
+#EXTINF:-1,24H JAKE E OS PIRATAS
+http://conexaoonline.life:80/162466827635269/169924/59701
+#EXTINF:-1,24H OS JETSONS
+http://conexaoonline.life:80/162466827635269/169924/59702
+#EXTINF:-1,24H HULK CLÁSSICO
+http://conexaoonline.life:80/162466827635269/169924/59703
+#EXTINF:-1,24H X-MEN CLÁSSICO
+http://conexaoonline.life:80/162466827635269/169924/59706
+#EXTINF:-1,24H A SUPER MÁQUINA
+http://conexaoonline.life:80/162466827635269/169924/59707
+#EXTINF:-1,24H FLY O PEQUENO GUERREIRO
+http://conexaoonline.life:80/162466827635269/169924/59709
+#EXTINF:-1,24H PICA-PAU CLÁSSICO
+http://conexaoonline.life:80/162466827635269/169924/59710
+#EXTINF:-1,24H SHAUN O CARNEIRO
+http://conexaoonline.life:80/162466827635269/169924/59712
+#EXTINF:-1,24H OGGY E AS BARATAS TONTAS
+http://conexaoonline.life:80/162466827635269/169924/59713
+#EXTINF:-1,24H DR.STONE (ANIME)
+http://conexaoonline.life:80/162466827635269/169924/59718
+#EXTINF:-1,24H GRAVITY FALLS
+http://conexaoonline.life:80/162466827635269/169924/59719
+#EXTINF:-1,24H INUYASHA
+http://conexaoonline.life:80/162466827635269/169924/59721
+#EXTINF:-1,24H DOIS HOMENS E MEIO CANAL 2
+http://conexaoonline.life:80/162466827635269/169924/25533
+#EXTINF:-1,24H BATMAN E ROBIN
+http://conexaoonline.life:80/162466827635269/169924/27176
+#EXTINF:-1,24H CHAPOLIN
+http://conexaoonline.life:80/162466827635269/169924/27166
+#EXTINF:-1,24H CHAVES CANAL 1
+http://conexaoonline.life:80/162466827635269/169924/27163
+#EXTINF:-1,24H DOIS HOMENS E MEIO CANAL 1
+http://conexaoonline.life:80/162466827635269/169924/27170
+#EXTINF:-1,24H ICARLY
+http://conexaoonline.life:80/162466827635269/169924/27168
+#EXTINF:-1,24H IRMÃOS À OBRA
+http://conexaoonline.life:80/162466827635269/169924/27169
+#EXTINF:-1,24H LARGADOS E PELADOS
+http://conexaoonline.life:80/162466827635269/169924/27171
+#EXTINF:-1,24H OS TRAPALHÕES
+http://conexaoonline.life:80/162466827635269/169924/27167
+#EXTINF:-1,24H PESADELO NA COZINHA
+http://conexaoonline.life:80/162466827635269/169924/27175
+#EXTINF:-1,24H SÍTIO DO PICAPAU AMARELO
+http://conexaoonline.life:80/162466827635269/169924/27161
+#EXTINF:-1,24H TODO MUNDO ODEIA O CHRIS
+http://conexaoonline.life:80/162466827635269/169924/27162
+#EXTINF:-1,24H A HISTORIA DE DEUS COM MORGAM FREEMAN
+http://conexaoonline.life:80/162466827635269/169924/374
+#EXTINF:-1,24H A Maldicao da Residencia Hill
+http://conexaoonline.life:80/162466827635269/169924/376
+#EXTINF:-1,24H AMERICAN HORROR
+http://conexaoonline.life:80/162466827635269/169924/377
+#EXTINF:-1,24H ANIMAIS SELVAGENS
+http://conexaoonline.life:80/162466827635269/169924/25757
+#EXTINF:-1,24H AS TELEFONISTAS
+http://conexaoonline.life:80/162466827635269/169924/384
+#EXTINF:-1,24H ASSEDIO
+http://conexaoonline.life:80/162466827635269/169924/387
+#EXTINF:-1,24H BATES MOTEL
+http://conexaoonline.life:80/162466827635269/169924/392
+#EXTINF:-1,24H BLACK LIGHTNING
+http://conexaoonline.life:80/162466827635269/169924/393
+#EXTINF:-1,24H CACADORES DE SOMBRA
+http://conexaoonline.life:80/162466827635269/169924/395
+#EXTINF:-1,24H CACADORES DE SOMBRA
+http://conexaoonline.life:80/162466827635269/169924/396
+#EXTINF:-1,24H CARCEREIROS
+http://conexaoonline.life:80/162466827635269/169924/398
+#EXTINF:-1,24H CAVALEIROS DO ZODIACO
+http://conexaoonline.life:80/162466827635269/169924/400
+#EXTINF:-1,24H CAVALO DE FOGO
+http://conexaoonline.life:80/162466827635269/169924/401
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+http://conexaoonline.life:80/162466827635269/169924/402
+#EXTINF:-1,24H CHICAGO MED
+http://conexaoonline.life:80/162466827635269/169924/404
+#EXTINF:-1,24H DAMNATION
+http://conexaoonline.life:80/162466827635269/169924/407
+#EXTINF:-1,24H DARK MATTER
+http://conexaoonline.life:80/162466827635269/169924/408
+#EXTINF:-1,24H DECEPTIONS
+http://conexaoonline.life:80/162466827635269/169924/409
+#EXTINF:-1,24H DEMOLIDOR 
+http://conexaoonline.life:80/162466827635269/169924/411
+#EXTINF:-1,24H DESASTRES AEREOS
+http://conexaoonline.life:80/162466827635269/169924/25529
+#EXTINF:-1,24H DIARIOS DE HORRORES
+http://conexaoonline.life:80/162466827635269/169924/414
+#EXTINF:-1,24H DIARIOS DE UM VAMPIRO
+http://conexaoonline.life:80/162466827635269/169924/415
+#EXTINF:-1,24H DOCTOR WHO
+http://conexaoonline.life:80/162466827635269/169924/422
+#EXTINF:-1,24H DOCUMENTARIOS DISCOVERY
+http://conexaoonline.life:80/162466827635269/169924/25759
+#EXTINF:-1,24H DUPLA IDENTIDADE
+http://conexaoonline.life:80/162466827635269/169924/424
+#EXTINF:-1,24H EL CHAPO
+http://conexaoonline.life:80/162466827635269/169924/425
+#EXTINF:-1,24H ELITE
+http://conexaoonline.life:80/162466827635269/169924/426
+#EXTINF:-1,24H FAMILIA SOPRANO
+http://conexaoonline.life:80/162466827635269/169924/427
+#EXTINF:-1,24H FARIÑA E COCAINE
+http://conexaoonline.life:80/162466827635269/169924/432
+#EXTINF:-1,24H FREQUENCY
+http://conexaoonline.life:80/162466827635269/169924/436
+#EXTINF:-1,24H FUGITIVOS
+http://conexaoonline.life:80/162466827635269/169924/437
+#EXTINF:-1,24H FUTURE MAN
+http://conexaoonline.life:80/162466827635269/169924/438
+#EXTINF:-1,24H GAME OF THRONES
+http://conexaoonline.life:80/162466827635269/169924/25531
+#EXTINF:-1,24H GAMEBROS
+http://conexaoonline.life:80/162466827635269/169924/440
+#EXTINF:-1,24H GHOUL
+http://conexaoonline.life:80/162466827635269/169924/441
+#EXTINF:-1,24H GOTHAN
+http://conexaoonline.life:80/162466827635269/169924/442
+#EXTINF:-1,24H GREYS ANATOMY
+http://conexaoonline.life:80/162466827635269/169924/443
+#EXTINF:-1,24H HANNIBAL
+http://conexaoonline.life:80/162466827635269/169924/444
+#EXTINF:-1,24H IMPUROS
+http://conexaoonline.life:80/162466827635269/169924/445
+#EXTINF:-1,24H IRMAOS DE GUERRA
+http://conexaoonline.life:80/162466827635269/169924/446
+#EXTINF:-1,24H JACKASS
+http://conexaoonline.life:80/162466827635269/169924/25532
+#EXTINF:-1,24H JOGOS SAGRADOS
+http://conexaoonline.life:80/162466827635269/169924/448
+#EXTINF:-1,24H JOSE DO EGITO
+http://conexaoonline.life:80/162466827635269/169924/449
+#EXTINF:-1,24H KOREIA DO NORTE
+http://conexaoonline.life:80/162466827635269/169924/25998
+#EXTINF:-1,24H LA CASA DE PAPEL CASA DE PAPEL
+http://conexaoonline.life:80/162466827635269/169924/452
+#EXTINF:-1,24H LENDAS DO AMANHA
+http://conexaoonline.life:80/162466827635269/169924/453
+#EXTINF:-1,24H LUCIFER 
+http://conexaoonline.life:80/162466827635269/169924/456
+#EXTINF:-1,24H LUKE CAGE
+http://conexaoonline.life:80/162466827635269/169924/455
+#EXTINF:-1,24H MACGYVER
+http://conexaoonline.life:80/162466827635269/169924/461
+#EXTINF:-1,24H MAQUINA MORTIFERA
+http://conexaoonline.life:80/162466827635269/169924/462
+#EXTINF:-1,24H MECANISMO
+http://conexaoonline.life:80/162466827635269/169924/464
+#EXTINF:-1,24H MINDHUNTER
+http://conexaoonline.life:80/162466827635269/169924/465
+#EXTINF:-1,24H NARCOS 
+http://conexaoonline.life:80/162466827635269/169924/466
+#EXTINF:-1,24H O HOMEM DO CASTELO ALTO
+http://conexaoonline.life:80/162466827635269/169924/468
+#EXTINF:-1,24H O JUSTICEIRO
+http://conexaoonline.life:80/162466827635269/169924/450
+#EXTINF:-1,24H O NEGOCIO
+http://conexaoonline.life:80/162466827635269/169924/471
+#EXTINF:-1,24H O SÓCIO
+http://conexaoonline.life:80/162466827635269/169924/27159
+#EXTINF:-1,24H O UNIVERSO
+http://conexaoonline.life:80/162466827635269/169924/25758
+#EXTINF:-1,24H OS VINGADORES
+http://conexaoonline.life:80/162466827635269/169924/25765
+#EXTINF:-1,24H OUTSIDER 
+http://conexaoonline.life:80/162466827635269/169924/475
+#EXTINF:-1,24H PROGRAMA POLICIA 24HORAS
+http://conexaoonline.life:80/162466827635269/169924/25528
+#EXTINF:-1,24H PRISON BREAK
+http://conexaoonline.life:80/162466827635269/169924/483
+#EXTINF:-1,24H OS SIMPSON
+http://conexaoonline.life:80/162466827635269/169924/25530
+#EXTINF:-1,24H STAR TREK
+http://conexaoonline.life:80/162466827635269/169924/487
+#EXTINF:-1,24H STRANGER THINGS
+http://conexaoonline.life:80/162466827635269/169924/489
+#EXTINF:-1,24H SUPERNATURAL
+http://conexaoonline.life:80/162466827635269/169924/490
+#EXTINF:-1,24H THE BIG BANG THEORY
+http://conexaoonline.life:80/162466827635269/169924/491
+#EXTINF:-1,24H VIKINGS 
+http://conexaoonline.life:80/162466827635269/169924/496
+#EXTINF:-1,24H CIDADE DOS HOMENS 
+http://conexaoonline.life:80/162466827635269/169924/42027
+#EXTINF:-1,24H EDU PRIMITIVO 
+http://conexaoonline.life:80/162466827635269/169924/42030
+#EXTINF:-1,24H PEGADINHAS SILVIO SANTOS
+http://conexaoonline.life:80/162466827635269/169924/42035
+#EXTINF:-1,24H EU A PATROA E AS CRIANÇAS
+http://conexaoonline.life:80/162466827635269/169924/42042
+#EXTINF:-1,24H CHAVES CANAL 2
+http://conexaoonline.life:80/162466827635269/169924/42051
+#EXTINF:-1,24H SEE
+http://conexaoonline.life:80/162466827635269/169924/59525
+#EXTINF:-1,24H 9-1-1
+http://conexaoonline.life:80/162466827635269/169924/59528
+#EXTINF:-1,24H AS NOIVAS DE COPACABANA
+http://conexaoonline.life:80/162466827635269/169924/59539
+#EXTINF:-1,24H A VIDA COMO ELA É
+http://conexaoonline.life:80/162466827635269/169924/59540
+#EXTINF:-1,24H MALHAÇÃO 1999
+http://conexaoonline.life:80/162466827635269/169924/59541
+#EXTINF:-1,24H ZILLION
+http://conexaoonline.life:80/162466827635269/169924/59542
+#EXTINF:-1,24H PEGADINHAS AMERICANAS 2
+http://conexaoonline.life:80/162466827635269/169924/59543
+#EXTINF:-1,24H GRAN HOTEL
+http://conexaoonline.life:80/162466827635269/169924/59544
+#EXTINF:-1,24H CHERNOBYL
+http://conexaoonline.life:80/162466827635269/169924/59545
+#EXTINF:-1,24H REALITY Z
+http://conexaoonline.life:80/162466827635269/169924/59546
+#EXTINF:-1,24H LARGADOS E PELADOS - A TRIBO
+http://conexaoonline.life:80/162466827635269/169924/59547
+#EXTINF:-1,24H LADY NIGHT
+http://conexaoonline.life:80/162466827635269/169924/59548
+#EXTINF:-1,24H MUNDO BITA
+http://conexaoonline.life:80/162466827635269/169924/59549
+#EXTINF:-1,24H ESCOLINHA DO PROFESSOR RAIMUNDO ANOS 90
+http://conexaoonline.life:80/162466827635269/169924/59554
+#EXTINF:-1,24H HOUSE OF CARDS
+http://conexaoonline.life:80/162466827635269/169924/59558
+#EXTINF:-1,24H GIGANTES DA INDÚSTRIA
+http://conexaoonline.life:80/162466827635269/169924/59560
+#EXTINF:-1,24H MARIA MAGDALENA
+http://conexaoonline.life:80/162466827635269/169924/59561
+#EXTINF:-1,24H MARVEL DEMOLIDOR
+http://conexaoonline.life:80/162466827635269/169924/59562
+#EXTINF:-1,24H SPARTACUS
+http://conexaoonline.life:80/162466827635269/169924/59573
+#EXTINF:-1,24H ENGRAÇADINHA
+http://conexaoonline.life:80/162466827635269/169924/59575
+#EXTINF:-1,24H V A BATALHA FINAL
+http://conexaoonline.life:80/162466827635269/169924/59577
+#EXTINF:-1,24H AMERICAN HOUSEWIFE
+http://conexaoonline.life:80/162466827635269/169924/59579
+#EXTINF:-1,24H BONES
+http://conexaoonline.life:80/162466827635269/169924/59580
+#EXTINF:-1,24H HEROES
+http://conexaoonline.life:80/162466827635269/169924/59586
+#EXTINF:-1,24H UM MALUCO NO PEDAÇO
+http://conexaoonline.life:80/162466827635269/169924/59599
+#EXTINF:-1,24H XENA A PRINCESA GUERREIRA
+http://conexaoonline.life:80/162466827635269/169924/59600
+#EXTINF:-1,24H CARGA PESADA
+http://conexaoonline.life:80/162466827635269/169924/59602
+#EXTINF:-1,24H HILDA FURACÃO
+http://conexaoonline.life:80/162466827635269/169924/59611
+#EXTINF:-1,24H OS RONI
+http://conexaoonline.life:80/162466827635269/169924/59612
+#EXTINF:-1,24H TRANSFORMERS
+http://conexaoonline.life:80/162466827635269/169924/59615
+#EXTINF:-1,24H A FAMÍLIA HATHAWAYS
+http://conexaoonline.life:80/162466827635269/169924/59651
+#EXTINF:-1,24H BREAKING BAD
+http://conexaoonline.life:80/162466827635269/169924/59687
+#EXTINF:-1,24H VERDADES SECRETAS
+http://conexaoonline.life:80/162466827635269/169924/59691
+#EXTINF:-1,24H OS FEITICEIROS DE WAVERLY PLACE
+http://conexaoonline.life:80/162466827635269/169924/59693
+#EXTINF:-1,24H EMPIRE
+http://conexaoonline.life:80/162466827635269/169924/59699
+#EXTINF:-1,24H  ESTÉTICA
+http://conexaoonline.life:80/162466827635269/169924/59705
+#EXTINF:-1,24H OPERAÇÃO POLICIAL
+http://conexaoonline.life:80/162466827635269/169924/59708
+#EXTINF:-1,24H A LARANJA IRRITANTE
+http://conexaoonline.life:80/162466827635269/169924/59714
+#EXTINF:-1,24H DE FÉRIAS COM O EX BRASIL
+http://conexaoonline.life:80/162466827635269/169924/59715
+#EXTINF:-1,24H DR. HOUSE
+http://conexaoonline.life:80/162466827635269/169924/59716
+#EXTINF:-1,24H HENRY DANGER
+http://conexaoonline.life:80/162466827635269/169924/59717
+#EXTINF:-1,24H MR. BEAN
+http://conexaoonline.life:80/162466827635269/169924/172943
+#EXTINF:-1,Show MIchael Jackson 24 horas
+http://conexaoonline.life:80/162466827635269/169924/25766
+#EXTINF:-1,Show Pearl Jam 24H
+http://conexaoonline.life:80/162466827635269/169924/25767
+#EXTINF:-1,Show Alok 24 Horas
+http://conexaoonline.life:80/162466827635269/169924/25768
+#EXTINF:-1,Show Mana 24 Horas
+http://conexaoonline.life:80/162466827635269/169924/25780
+#EXTINF:-1,Show Iron Maidem 24 Horas
+http://conexaoonline.life:80/162466827635269/169924/25781
+#EXTINF:-1,Show Red Hot Chili Peppers  24H 
+http://conexaoonline.life:80/162466827635269/169924/25782
+#EXTINF:-1,24 Horas Badin Canal YouTube
+http://conexaoonline.life:80/162466827635269/169924/27351
+#EXTINF:-1,24 Horas Webbullying Canal YouTube
+http://conexaoonline.life:80/162466827635269/169924/27358
+#EXTINF:-1,24 Horas CanalCanalha YouTube
+http://conexaoonline.life:80/162466827635269/169924/27363
+#EXTINF:-1,24 Horas Parafernalha YouTube
+http://conexaoonline.life:80/162466827635269/169924/27364
+#EXTINF:-1,24H GERSON ALBUQUERQUE
+http://conexaoonline.life:80/162466827635269/169924/42028
+#EXTINF:-1,24H NEGO DI COMÉDIA
+http://conexaoonline.life:80/162466827635269/169924/42031
+#EXTINF:-1,24H PÂNICO NA BAND 1
+http://conexaoonline.life:80/162466827635269/169924/42036
+#EXTINF:-1,24H VOCÊ SABIA? 
+http://conexaoonline.life:80/162466827635269/169924/42055
