@@ -4,8 +4,24 @@
 
 
 #EXTM3U
-#EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -CANAIS 24HRS[/B][/COLOR]
-http://distv.
+ 
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=FILMES ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+ 
+################################################################################# Informações da Lista
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 30/10/2021 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
+https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 #EXTINF:-1 tvg-id="" tvg-name="THE BIG BANG THEORY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8ff95fce035f86c29e5e54d341ba0872.png" group-title="CANAIS: 24HS ALTER",THE BIG BANG THEORY
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31632
@@ -71,5 +87,4 @@ http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31724
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31742
 #EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS" tvg-logo="http://51.222.46.117:80/images/c2b931974cdc4dd161c379f017226ed9.png" group-title="CANAIS: 24HS ALTER",POWER RANGERS
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31754
-#EXTINF:-1 tvg-id="" tvg-name="FÁBULAS DA DISNEY" tvg-logo="http://xcui.vitvabc.xyz:8880/images/092d101c0e0fcea0deece1a0565016a4.png" group-title="CANAIS: 24HS ALTER",FÁBULAS DA DISNEY
-http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/31768
+
