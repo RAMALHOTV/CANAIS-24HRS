@@ -10,288 +10,334 @@
 
 ################################################################################# Informações da Lista
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",RamalhoTV
+https://www.youtube.com/channel/UCojJlqr-L9290l5
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",
+https://www.youtube.com/channel/UCojJlqr
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 05/12/2021
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:10/01/2022
+https://www.youtube.com/channel/UCojJlqr-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+https://www.youtube.com/channel/UCojJlqr-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+https://www.youtube.com/channel/UCojJlqr-L92
 
-#EXTINF:-1 tvg-id="" tvg-name=" PEGADINHAS JOÃO KLEBER E SILVIO SANTOS" tvg-logo="https://i.imgur.com/pp4Tqph.jpg" group-title="PEGADINHAS 24HRS", PEGADINHAS JOÃO KLEBER E SILVIO SANTOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/159530
-#EXTINF:-1 tvg-id="" tvg-name="My Time Movie Network" tvg-logo="https://i.imgur.com/4YWasON.jpg" group-title="SERIADOS 24HRS",My Time Movie Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374297
-#EXTINF:-1 tvg-id="" tvg-name="CINE TRAPALHÕES" tvg-logo="https://i.imgur.com/H66o66y.jpg" group-title="SERIADOS 24HRS",CINE TRAPALHÕES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374296
-#EXTINF:-1 tvg-id="" tvg-name="24H VERDADES SECRETAS" tvg-logo="https://i.imgur.com/rbgo0TU.jpg" group-title="SERIADOS 24HRS",24H VERDADES SECRETAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374294
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DOIS HOMENS E MEIO CANAL 1" tvg-logo="https://i.imgur.com/on9DycQ.jpg" group-title="SERIADOS 24HRS",[24H] DOIS HOMENS E MEIO CANAL 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370732
-#EXTINF:-1 tvg-id="" tvg-name="24H A VIDA COMO ELA É" tvg-logo="https://i.imgur.com/f4Il20i.jpg" group-title="SERIADOS 24HRS",24H A VIDA COMO ELA É
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374246
-#EXTINF:-1 tvg-id="" tvg-name="24H ALF O E.TEIMOSO" tvg-logo="https://i.imgur.com/VSbuobk.jpg" group-title="SERIADOS 24HRS",24H ALF O E.TEIMOSO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374247
-#EXTINF:-1 tvg-id="" tvg-name="24H BREAKING BAD" tvg-logo="https://i.imgur.com/05mUiBk.png" group-title="SERIADOS 24HRS",24H BREAKING BAD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374251
-#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 03 E 04" tvg-logo="" group-title="SERIADOS 24HRS",24H CHAVES TEMPORADA 03 E 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374254
-#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 05 E 06" tvg-logo="" group-title="SERIADOS 24HRS",24H CHAVES TEMPORADA 05 E 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374255
-#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES TEMPORADA 07" tvg-logo="" group-title="SERIADOS 24HRS",24H CHAVES TEMPORADA 07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374256
-#EXTINF:-1 tvg-id="" tvg-name="24H CHERNOBYL" tvg-logo="" group-title="SERIADOS 24HRS",24H CHERNOBYL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374257
-#EXTINF:-1 tvg-id="" tvg-name="24H DE FÉRIAS COM O EX BRASIL" tvg-logo="" group-title="SERIADOS 24HRS",24H DE FÉRIAS COM O EX BRASIL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374258
-#EXTINF:-1 tvg-id="" tvg-name="24H Desafio em Dose Dupla" tvg-logo="https://i.imgur.com/plLxlQT.jpg" group-title="SERIADOS 24HRS",24H Desafio em Dose Dupla
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374259
-#EXTINF:-1 tvg-id="" tvg-name="24H DOIS HOMENS E MEIO T01 A 06" tvg-logo="https://i.imgur.com/on9DycQ.jpg" group-title="SERIADOS 24HRS",24H DOIS HOMENS E MEIO T01 A 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374261
-#EXTINF:-1 tvg-id="" tvg-name="24H DOIS HOMENS E MEIO T07 A 12" tvg-logo="https://i.imgur.com/on9DycQ.jpg" group-title="SERIADOS 24HRS",24H DOIS HOMENS E MEIO T07 A 12
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374262
-#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE & JOSH" tvg-logo="https://i.imgur.com/TiHRmmN.jpg" group-title="SERIADOS 24HRS",24H DRAKE & JOSH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374263
-#EXTINF:-1 tvg-id="" tvg-name="24H EMPIRE" tvg-logo="https://i.imgur.com/088gyM3.png" group-title="SERIADOS 24HRS",24H EMPIRE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374264
-#EXTINF:-1 tvg-id="" tvg-name="24H ENGRAÇADINHA" tvg-logo="https://i.imgur.com/2THEyuF.jpg" group-title="SERIADOS 24HRS",24H ENGRAÇADINHA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374265
-#EXTINF:-1 tvg-id="" tvg-name="24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90" tvg-logo="https://i.imgur.com/DpzHfMi.jpg" group-title="SERIADOS 24HRS",24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374266
-#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="https://i.imgur.com/d1JGGpu.jpg" group-title="SERIADOS 24HRS",24H EU A PATROA E AS CRIANÇAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374267
-#EXTINF:-1 tvg-id="" tvg-name="24H GRAN HOTEL" tvg-logo="https://i.imgur.com/yXq1dmt.jpg" group-title="SERIADOS 24HRS",24H GRAN HOTEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374268
-#EXTINF:-1 tvg-id="" tvg-name="24H HANNAH MONTANA" tvg-logo="https://i.imgur.com/bAhLVAV.jpg" group-title="SERIADOS 24HRS",24H HANNAH MONTANA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374269
-#EXTINF:-1 tvg-id="" tvg-name="24H HILDA FURACÃO" tvg-logo="https://i.imgur.com/gT2kBHg.jpg" group-title="SERIADOS 24HRS",24H HILDA FURACÃO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374270
-#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS" tvg-logo="https://i.imgur.com/kgfubh3.jpg" group-title="SERIADOS 24HRS",24H LARGADOS E PELADOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374273
-#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS A TRIBO" tvg-logo="https://i.imgur.com/uI2ne2F.jpg" group-title="SERIADOS 24HRS",24H LARGADOS E PELADOS A TRIBO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374274
-#EXTINF:-1 tvg-id="" tvg-name="24H LIE TO ME" tvg-logo="https://i.imgur.com/FQcAVqy.jpg" group-title="SERIADOS 24HRS",24H LIE TO ME
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374275
-#EXTINF:-1 tvg-id="" tvg-name="24H MALHAÇÃO 1999" tvg-logo="https://i.imgur.com/4DBwped.jpg" group-title="SERIADOS 24HRS",24H MALHAÇÃO 1999
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374276
-#EXTINF:-1 tvg-id="" tvg-name="24H MARIA MAGDALENA" tvg-logo="https://i.imgur.com/irt3mBO.jpg" group-title="SERIADOS 24HRS",24H MARIA MAGDALENA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374278
-#EXTINF:-1 tvg-id="" tvg-name="24H MARVEL DEMOLIDOR" tvg-logo="https://i.imgur.com/TAhnquf.jpg" group-title="SERIADOS 24HRS",24H MARVEL DEMOLIDOR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374279
-#EXTINF:-1 tvg-id="" tvg-name="24H OPERAÇÃO POLICIAL" tvg-logo="https://i.imgur.com/VPv5gBp.jpg" group-title="SERIADOS 24HRS",24H OPERAÇÃO POLICIAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374281
-#EXTINF:-1 tvg-id="" tvg-name="24H POLICIA 24 HORAS" tvg-logo="https://i.imgur.com/ZEPRutp.jpg" group-title="SERIADOS 24HRS",24H POLICIA 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374282
-#EXTINF:-1 tvg-id="" tvg-name="24H OS TRAPALHÕES" tvg-logo="https://i.imgur.com/H66o66y.jpg" group-title="SERIADOS 24HRS",24H OS TRAPALHÕES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374283
-#EXTINF:-1 tvg-id="" tvg-name="24H Panico na Band 2014" tvg-logo="https://i.imgur.com/3afZwt7.jpg" group-title="SERIADOS 24HRS",24H Panico na Band 2014
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374284
-#EXTINF:-1 tvg-id="" tvg-name="24H Panico na Band 2015" tvg-logo="https://i.imgur.com/3afZwt7.jpg" group-title="SERIADOS 24HRS",24H Panico na Band 2015
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374285
-#EXTINF:-1 tvg-id="" tvg-name="24H PEGADINHAS AMERICANAS 2" tvg-logo="https://i.imgur.com/pp4Tqph.jpg" group-title="PEGADINHAS 24HRS",24H PEGADINHAS AMERICANAS 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374286
-#EXTINF:-1 tvg-id="" tvg-name="24H REALITY Z" tvg-logo="https://i.imgur.com/S94X9CY.jpg" group-title="SERIADOS 24HRS",24H REALITY Z
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374288
-#EXTINF:-1 tvg-id="" tvg-name="24H SPARTACUS" tvg-logo="https://i.imgur.com/TxbbuVp.jpg" group-title="SERIADOS 24HRS",24H SPARTACUS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374289
-#EXTINF:-1 tvg-id="" tvg-name="24H SUPERNATURAL T01 A 05" tvg-logo="https://i.imgur.com/mAY2NPX.jpg" group-title="SERIADOS 24HRS",24H SUPERNATURAL T01 A 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374290
-#EXTINF:-1 tvg-id="" tvg-name="24H THE BIG BANG THEORY T01 Á T05" tvg-logo="https://i.imgur.com/i8Xhu5L.png" group-title="SERIADOS 24HRS",24H THE BIG BANG THEORY T01 Á T05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/374291
-#EXTINF:-1 tvg-id="" tvg-name="[24H] KENAN E KEL" tvg-logo="https://i.imgur.com/DCqCt2o.jpg" group-title="INFANTIL 24HRS",[24H] KENAN E KEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370653
-#EXTINF:-1 tvg-id="" tvg-name="[24H] FRIENDS CANAL 1" tvg-logo="https://i.imgur.com/mFJBT1Y.jpg" group-title="INFANTIL 24HRS",[24H] FRIENDS CANAL 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370654
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JIRAYA" tvg-logo="https://i.imgur.com/LiFPubC.jpg" group-title="INFANTIL 24HRS",[24H] JIRAYA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370655
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 1 - SANTUARIO" tvg-logo="https://i.imgur.com/IglECCH.jpg" group-title="INFANTIL 24HRS",[24H] CAVALEIROS DO ZODIACO 1 - SANTUARIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370656
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 3 - ASGARD" tvg-logo="https://i.imgur.com/yq7zCjx.jpg" group-title="INFANTIL 24HRS",[24H] CAVALEIROS DO ZODIACO 3 - ASGARD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370657
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 4 - POSEIDON" tvg-logo="https://i.imgur.com/XmAxoyn.jpg" group-title="INFANTIL 24HRS",[24H] CAVALEIROS DO ZODIACO 4 - POSEIDON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370658
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 8 - NETFLIX" tvg-logo="https://i.imgur.com/qmK1zc7.jpg" group-title="INFANTIL 24HRS",[24H] CAVALEIROS DO ZODIACO 8 - NETFLIX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370659
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBGT" tvg-logo="https://i.imgur.com/4YGNRfL.jpg" group-title="INFANTIL 24HRS",[24H] DBGT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370661
-#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO" tvg-logo="https://i.imgur.com/TLYNoM2.jpg" group-title="INFANTIL 24HRS",[24H] NARUTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370662
-#EXTINF:-1 tvg-id="" tvg-name="[24H] POKÉMON - SUN & MOON" tvg-logo="https://i.imgur.com/tMfbzdd.jpg" group-title="INFANTIL 24HRS",[24H] POKÉMON - SUN & MOON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370663
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN CLASSIC" tvg-logo="https://i.imgur.com/yOE3j3C.jpg" group-title="INFANTIL 24HRS",[24H] X-MEN CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370664
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ZE BUSCAPE" tvg-logo="https://i.imgur.com/XaRyOtK.jpg" group-title="INFANTIL 24HRS",[24H] ZE BUSCAPE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370665
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LOOLOO KIDS - JOHNY E AMIGOS" tvg-logo="https://i.imgur.com/WacFQUy.jpg" group-title="INFANTIL 24HRS",[24H] LOOLOO KIDS - JOHNY E AMIGOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370667
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="https://i.imgur.com/cMa1Wpk.jpg" group-title="INFANTIL 24HRS",[24H] 3 PALAVRINHAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370668
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO PERNALONGA" tvg-logo="https://i.imgur.com/bAT7tB1.jpg" group-title="INFANTIL 24HRS",[24H] A TURMA DO PERNALONGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370669
-#EXTINF:-1 tvg-id="" tvg-name="[24H] AS AVENTURAS DE JACKIE CHAN" tvg-logo="https://i.imgur.com/vb4gU7R.jpg" group-title="INFANTIL 24HRS",[24H] AS AVENTURAS DE JACKIE CHAN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370670
-#EXTINF:-1 tvg-id="" tvg-name="[24H] AS MENINAS SUPERPODEROSAS" tvg-logo="https://i.imgur.com/dUmPjuM.jpg" group-title="INFANTIL 24HRS",[24H] AS MENINAS SUPERPODEROSAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370671
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10" tvg-logo="https://i.imgur.com/Jhm9En5.jpg" group-title="INFANTIL 24HRS",[24H] BEN 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370672
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ESPONJA" tvg-logo="https://i.imgur.com/T63ynfw.jpg" group-title="INFANTIL 24HRS",[24H] BOB ESPONJA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370673
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DICK VIGARISTA E MUTTLEY" tvg-logo="https://i.imgur.com/1o464Hr.jpg" group-title="INFANTIL 24HRS",[24H] DICK VIGARISTA E MUTTLEY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370674
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DOUG FUNNIE" tvg-logo="https://i.imgur.com/bjrR8wA.jpg" group-title="INFANTIL 24HRS",[24H] DOUG FUNNIE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370675
-#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN" tvg-logo="https://i.imgur.com/2yWEVJH.jpg" group-title="INFANTIL 24HRS",[24H] HE-MAN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370677
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JONNY QUEST" tvg-logo="https://i.imgur.com/yI4lfV6.jpg" group-title="INFANTIL 24HRS",[24H] JONNY QUEST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370678
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY E DONALD" tvg-logo="https://i.imgur.com/pUhrLQt.jpg" group-title="INFANTIL 24HRS",[24H] MICKEY E DONALD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370679
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO PRINCIPE" tvg-logo="https://i.imgur.com/fD22AjQ.jpg" group-title="INFANTIL 24HRS",[24H] O PEQUENO PRINCIPE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370680
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS JETSONS" tvg-logo="https://i.imgur.com/GC8LdLM.jpg" group-title="INFANTIL 24HRS",[24H] OS JETSONS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370681
-#EXTINF:-1 tvg-id="" tvg-name="[24H] POPEYE" tvg-logo="https://i.imgur.com/7Se366U.jpg" group-title="INFANTIL 24HRS",[24H] POPEYE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370682
-#EXTINF:-1 tvg-id="" tvg-name="[24H] RICK AND MORTY" tvg-logo="https://i.imgur.com/m0hVIMl.png" group-title="INFANTIL 24HRS",[24H] RICK AND MORTY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370683
-#EXTINF:-1 tvg-id="" tvg-name="[24H] RUGRATS" tvg-logo="https://i.imgur.com/fTxfwmo.jpg" group-title="INFANTIL 24HRS",[24H] RUGRATS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370684
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SHE RA" tvg-logo="https://i.imgur.com/5fmBQlg.jpg" group-title="INFANTIL 24HRS",[24H] SHE RA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370685
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SOUTH PARK CANAL 1" tvg-logo="https://i.imgur.com/wMXcunH.jpg" group-title="INFANTIL 24HRS",[24H] SOUTH PARK CANAL 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370686
-#EXTINF:-1 tvg-id="" tvg-name="[24H] STREET FIGHTER" tvg-logo="https://i.imgur.com/OX93aym.jpg" group-title="INFANTIL 24HRS",[24H] STREET FIGHTER
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370687
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER CHOQUE" tvg-logo="https://i.imgur.com/A21vAL1.jpg" group-title="INFANTIL 24HRS",[24H] SUPER CHOQUE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370688
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TICO E TECO: E OS DEFENSORES DA LEI" tvg-logo="https://i.imgur.com/IWoLF7I.jpg" group-title="INFANTIL 24HRS",[24H] TICO E TECO: E OS DEFENSORES DA LEI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370689
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TIMÃO E PUMBA" tvg-logo="https://i.imgur.com/RDJtkXr.jpg" group-title="INFANTIL 24HRS",[24H] TIMÃO E PUMBA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370690
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TRÊS ESPIÃS DEMAIS" tvg-logo="https://i.imgur.com/eCdplMh.png" group-title="INFANTIL 24HRS",[24H] TRÊS ESPIÃS DEMAIS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370691
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MASHA E O URSO" tvg-logo="https://i.imgur.com/1MQzafv.jpg" group-title="INFANTIL 24HRS",[24H] MASHA E O URSO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370692
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="https://i.imgur.com/woNU7TU.jpg" group-title="INFANTIL 24HRS",[24H] O FANTÁSTICO MUNDO DE BOBBY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370693
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O PODEROSO CHEFINHO" tvg-logo="https://i.imgur.com/lklShhy.jpg" group-title="INFANTIL 24HRS",[24H] O PODEROSO CHEFINHO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370694
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ MASKS - HEROIS DE PIJAMA" tvg-logo="https://i.imgur.com/AreRe9P.jpg" group-title="INFANTIL 24HRS",[24H] PJ MASKS - HEROIS DE PIJAMA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370695
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SHOW DA LUNA" tvg-logo="https://i.imgur.com/gCYhBGO.jpg" group-title="INFANTIL 24HRS",[24H] SHOW DA LUNA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370696
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SONIC BOOM" tvg-logo="https://i.imgur.com/Vvk3MFg.jpg" group-title="INFANTIL 24HRS",[24H] SONIC BOOM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370697
-#EXTINF:-1 tvg-id="" tvg-name="[24H] URSINHOS CARINHOSOS" tvg-logo="https://i.imgur.com/DFyRfpX.jpg" group-title="INFANTIL 24HRS",[24H] URSINHOS CARINHOSOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370698
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YOUNG SHELDON" tvg-logo="https://i.imgur.com/SA5LHG9.jpg" group-title="INFANTIL 24HRS",[24H] YOUNG SHELDON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370699
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTRAMAN." tvg-logo="https://i.imgur.com/kbxd34u.jpg" group-title="INFANTIL 24HRS",[24H] ULTRAMAN.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370700
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEYBLADE" tvg-logo="https://i.imgur.com/lNOuj3k.jpg" group-title="INFANTIL 24HRS",[24H] BEYBLADE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370701
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CORAGEM, O CÃO COVARDE" tvg-logo="https://i.imgur.com/RAfFKrH.jpg" group-title="INFANTIL 24HRS",[24H] CORAGEM, O CÃO COVARDE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370702
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CASTELO RÁ-TIM-BUM" tvg-logo="https://i.imgur.com/9Xjml4s.jpg" group-title="INFANTIL 24HRS",[24H] CASTELO RÁ-TIM-BUM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370703
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES EM DESENHO ANIMADO" tvg-logo="https://i.imgur.com/BZuFJFZ.jpg" group-title="INFANTIL 24HRS",[24H] CHAVES EM DESENHO ANIMADO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370704
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DENNIS: O PIMENTINHA" tvg-logo="https://i.imgur.com/eXmvRgp.jpg" group-title="INFANTIL 24HRS",[24H] DENNIS: O PIMENTINHA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370705
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JOHNNY BRAVO" tvg-logo="https://i.imgur.com/7LWZguH.jpg" group-title="INFANTIL 24HRS",[24H] JOHNNY BRAVO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370706
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS FLINTSTONES" tvg-logo="https://i.imgur.com/SbnOKvS.jpg" group-title="INFANTIL 24HRS",[24H] OS FLINTSTONES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370707
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS PADRINHOS MÁGICOS" tvg-logo="https://i.imgur.com/SjHYWTm.jpg" group-title="INFANTIL 24HRS",[24H] OS PADRINHOS MÁGICOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370708
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A PEQUENA SEREIA" tvg-logo="https://i.imgur.com/H3RIHy4.jpg" group-title="INFANTIL 24HRS",[24H] A PEQUENA SEREIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370709
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO URSO" tvg-logo="https://i.imgur.com/uGhKSAs.jpg" group-title="INFANTIL 24HRS",[24H] O PEQUENO URSO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370710
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PINKY E O CÉREBRO" tvg-logo="https://i.imgur.com/NaEHuD9.png" group-title="INFANTIL 24HRS",[24H] PINKY E O CÉREBRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370711
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SPEED RACER" tvg-logo="https://i.imgur.com/dQHt4LH.jpg" group-title="INFANTIL 24HRS",[24H] SPEED RACER
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370712
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY: AVENTURAS SOBRE RODAS" tvg-logo="https://i.imgur.com/Otb826y.jpg" group-title="INFANTIL 24HRS",[24H] MICKEY: AVENTURAS SOBRE RODAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370713
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ZÉ COLMEIA" tvg-logo="https://i.imgur.com/ETFtwk2.jpg" group-title="INFANTIL 24HRS",[24H] ZÉ COLMEIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370714
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALO DE FOGO" tvg-logo="https://i.imgur.com/c4zWWlj.jpg" group-title="INFANTIL 24HRS",[24H] CAVALO DE FOGO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370715
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DORA, A AVENTUREIRA" tvg-logo="https://i.imgur.com/4U11q7q.jpg" group-title="INFANTIL 24HRS",[24H] DORA, A AVENTUREIRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370716
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF, O ETEIMOSO." tvg-logo="https://i.imgur.com/wqFoa2S.jpg" group-title="INFANTIL 24HRS",[24H] ALF, O ETEIMOSO.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370717
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A CASA DO MICKEY" tvg-logo="https://i.imgur.com/NC4jirA.jpg" group-title="INFANTIL 24HRS",[24H] A CASA DO MICKEY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370718
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DA MONICA" tvg-logo="https://i.imgur.com/V8CTCR0.jpg" group-title="INFANTIL 24HRS",[24H] A TURMA DA MONICA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370719
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO CHARLIE BROWN E SNOOPY" tvg-logo="https://i.imgur.com/Y8FfN7h.png" group-title="INFANTIL 24HRS",[24H] A TURMA DO CHARLIE BROWN E SNOOPY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370720
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ANIMANIACS" tvg-logo="https://i.imgur.com/wXghato.jpg" group-title="INFANTIL 24HRS",[24H] ANIMANIACS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370721
-#EXTINF:-1 tvg-id="" tvg-name="[24H] APENAS UM SHOW" tvg-logo="https://i.imgur.com/eVYhF0H.jpg" group-title="INFANTIL 24HRS",[24H] APENAS UM SHOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370722
-#EXTINF:-1 tvg-id="" tvg-name="[24H] AVENTURAS DE TINTIM" tvg-logo="https://i.imgur.com/zlpayII.jpg" group-title="INFANTIL 24HRS",[24H] AVENTURAS DE TINTIM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370723
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ZOOM" tvg-logo="https://i.imgur.com/bFAGags.png" group-title="INFANTIL 24HRS",[24H] BOB ZOOM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370724
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 2 - 12 CASAS" tvg-logo="https://i.imgur.com/dVz9fJu.jpg" group-title="INFANTIL 24HRS",[24H] CAVALEIROS DO ZODIACO 2 - 12 CASAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370725
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN CANAL 2" tvg-logo="https://i.imgur.com/hA7NbLI.png" group-title="INFANTIL 24HRS",[24H] CHAPOLIN CANAL 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370726
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CLARENCIO O OTIMISTA" tvg-logo="https://i.imgur.com/usKTRVi.jpg" group-title="INFANTIL 24HRS",[24H] CLARENCIO O OTIMISTA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370727
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CONTOS DA MASHA" tvg-logo="https://i.imgur.com/lnf7qIp.jpg" group-title="INFANTIL 24HRS",[24H] CONTOS DA MASHA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370728
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CYBERCOPS" tvg-logo="https://i.imgur.com/pPLWiYa.jpg" group-title="INFANTIL 24HRS",[24H] CYBERCOPS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370729
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 1 - SAGA DOS SAYAJINS" tvg-logo="https://i.imgur.com/kDD9yQP.jpg" group-title="INFANTIL 24HRS",[24H] DBZ 1 - SAGA DOS SAYAJINS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370730
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DIGIMON ADVENTURES" tvg-logo="https://i.imgur.com/YDUCpTA.jpg" group-title="INFANTIL 24HRS",[24H] DIGIMON ADVENTURES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370731
-#EXTINF:-1 tvg-id="" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="https://i.imgur.com/2qK9kIQ.jpg" group-title="INFANTIL 24HRS",[24H] GALINHA PINTADINHA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370733
-#EXTINF:-1 tvg-id="" tvg-name="[24H] GASPARZINHO E SEUS AMIGOS" tvg-logo="https://i.imgur.com/iSxRdnV.jpg" group-title="INFANTIL 24HRS",[24H] GASPARZINHO E SEUS AMIGOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370734
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LILO E STITCH: A SÉRIE" tvg-logo="https://i.imgur.com/UK62phR.jpg" group-title="INFANTIL 24HRS",[24H] LILO E STITCH: A SÉRIE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370735
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LULUZINHA" tvg-logo="https://i.imgur.com/ddXBeLJ.jpg" group-title="INFANTIL 24HRS",[24H] LULUZINHA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370736
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MANDA CHUVA" tvg-logo="https://i.imgur.com/l5GpUz9.png" group-title="INFANTIL 24HRS",[24H] MANDA CHUVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370737
-#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO SHIPPUDEN" tvg-logo="https://i.imgur.com/R6M839t.jpg" group-title="INFANTIL 24HRS",[24H] NARUTO SHIPPUDEN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370738
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PARADISE PD" tvg-logo="https://i.imgur.com/7OGEa7U.jpg" group-title="INFANTIL 24HRS",[24H] PARADISE PD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370739
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SAILOR MOON" tvg-logo="https://i.imgur.com/vF3DPaW.jpg" group-title="INFANTIL 24HRS",[24H] SAILOR MOON
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/370740
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 01 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 01 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364507
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 02 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 02 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364508
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 03 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 03 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364509
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 04 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 04 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364510
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 05 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 05 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364511
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 06 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 06 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364512
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 07 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 07 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364513
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 08 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 08 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364514
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 09 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 09 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364515
-#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 10 HD" tvg-logo="https://i.imgur.com/WJy5EH2.jpg" group-title="CINE 24HRS ",CINE PIPOCA 10 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/364516
-#EXTINF:-1 tvg-id="" tvg-name="CINE FOX MOVIES" tvg-logo="https://i.imgur.com/KzKKAzw.png" group-title="CINE 24HRS ",CINE FOX MOVIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RTV;&amp;buffer=60000;url=http://tv.meuserver.me:8080/000311/CodeMeuserver/367529
+#EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="PROGRAMAS 24 HORAS",24H TRAPALHOES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/925583
+#EXTINF:-1 tvg-id="" tvg-name="24hs 101 Dálmatas" tvg-logo="http://01.perfeita.in:80/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs 101 Dálmatas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931296
+#EXTINF:-1 tvg-id="" tvg-name="24hs 3 Palavrinhas" tvg-logo="http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="DESENHOS 24 HORAS",24hs 3 Palavrinhas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931297
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Formiga Atômica" tvg-logo="http://fonteviper.xyz:8080/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="DESENHOS 24 HORAS",24hs A Formiga Atômica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931299
+#EXTINF:-1 tvg-id="" tvg-name="24hs A GRANDE FAMILIA" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A GRANDE FAMILIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931300
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Mansão Foster Para Amigos Imaginários" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Mansão Foster Para Amigos Imaginários
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931301
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Pantera Cor de Rosa" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Pantera Cor de Rosa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931302
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Patrulha Canina" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Patrulha Canina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931303
+#EXTINF:-1 tvg-id="" tvg-name="24hs A Vaca e o Frango" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs A Vaca e o Frango
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931304
+#EXTINF:-1 tvg-id="" tvg-name="24hs Aladdin" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Aladdin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931305
+#EXTINF:-1 tvg-id="" tvg-name="24hs Animaniacs" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Animaniacs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931306
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Aventuras de Tintin" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Aventuras de Tintin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931307
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Meninas Super Poderosas" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Meninas Super Poderosas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931308
+#EXTINF:-1 tvg-id="" tvg-name="24hs As Visões de Raven" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs As Visões de Raven
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931310
+#EXTINF:-1 tvg-id="" tvg-name="24hs AUTHENTIC GAMES" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs AUTHENTIC GAMES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931311
+#EXTINF:-1 tvg-id="" tvg-name="24hs Avatar a Lenda de Aang" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Avatar a Lenda de Aang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931312
+#EXTINF:-1 tvg-id="" tvg-name="24hs Baby Looney Tunes" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Baby Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931313
+#EXTINF:-1 tvg-id="" tvg-name="24hs BACKARDIGANS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BACKARDIGANS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931314
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ben 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931315
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ben 10 Omniverse" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ben 10 Omniverse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931316
+#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Esponja" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Bob Esponja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931318
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O CONSTRUTOR" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOB O CONSTRUTOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931319
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOB O TREM" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOB O TREM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931320
+#EXTINF:-1 tvg-id="" tvg-name="24hs Bob Zoom" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Bob Zoom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931321
+#EXTINF:-1 tvg-id="" tvg-name="24hs Boku no Hero Academia" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Boku no Hero Academia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931322
+#EXTINF:-1 tvg-id="" tvg-name="24hs BOOBA" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs BOOBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931323
+#EXTINF:-1 tvg-id="" tvg-name="24hs Brooklyn Nine-Nine" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Brooklyn Nine-Nine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931325
+#EXTINF:-1 tvg-id="" tvg-name="24hs Cadillacs e Dinossauros" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Cadillacs e Dinossauros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931326
+#EXTINF:-1 tvg-id="" tvg-name="24hs CAILLOU" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CAILLOU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931327
+#EXTINF:-1 tvg-id="" tvg-name="24hs Chapolin Colorado" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Chapolin Colorado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931333
+#EXTINF:-1 tvg-id="" tvg-name="24hs CHAVES do 8" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CHAVES do 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931334
+#EXTINF:-1 tvg-id="" tvg-name="24hs Chaves em desenho animado" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Chaves em desenho animado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931335
+#EXTINF:-1 tvg-id="" tvg-name="24hs Como Eu Conheci Sua Mãe" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Como Eu Conheci Sua Mãe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931336
+#EXTINF:-1 tvg-id="" tvg-name="24hs CORAGEM, O CÃO COVARDE" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CORAGEM, O CÃO COVARDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931337
+#EXTINF:-1 tvg-id="" tvg-name="24hs Corrida Maluca" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Corrida Maluca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931338
+#EXTINF:-1 tvg-id="" tvg-name="24hs CUT THE HOPE" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs CUT THE HOPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931339
+#EXTINF:-1 tvg-id="" tvg-name="24hs De Volta para o Futuro" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs De Volta para o Futuro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931340
+#EXTINF:-1 tvg-id="" tvg-name="24hs Detetives do Prédio Azul" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Detetives do Prédio Azul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931341
+#EXTINF:-1 tvg-id="" tvg-name="24hs DIGIMON" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs DIGIMON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931342
+#EXTINF:-1 tvg-id="" tvg-name="24hs Dora a Aventureira" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Dora a Aventureira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931343
+#EXTINF:-1 tvg-id="" tvg-name="24hs Dragon Ball Super" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Dragon Ball Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931344
+#EXTINF:-1 tvg-id="" tvg-name="24hs Drake & Josh" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Drake & Josh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931345
+#EXTINF:-1 tvg-id="" tvg-name="24hs Du, Dudu e Edu" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Du, Dudu e Edu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931346
+#EXTINF:-1 tvg-id="" tvg-name="24hs Duck Dodgers" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Duck Dodgers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931347
+#EXTINF:-1 tvg-id="" tvg-name="24hs EU A PATROA E AS CRIANÇAS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs EU A PATROA E AS CRIANÇAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931349
+#EXTINF:-1 tvg-id="" tvg-name="24hs Flash" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Flash
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931350
+#EXTINF:-1 tvg-id="" tvg-name="24hs Flash Gordon" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Flash Gordon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931351
+#EXTINF:-1 tvg-id="" tvg-name="24hs FLINTSTONES" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs FLINTSTONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931352
+#EXTINF:-1 tvg-id="" tvg-name="24hs Fly o pequeno guerreiro" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Fly o pequeno guerreiro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931353
+#EXTINF:-1 tvg-id="" tvg-name="24hs Freakazoid!" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Freakazoid!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931354
+#EXTINF:-1 tvg-id="" tvg-name="24hs FullMetal Alchemist" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs FullMetal Alchemist
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931355
+#EXTINF:-1 tvg-id="" tvg-name="24hs Homem Aranha" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Homem Aranha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931358
+#EXTINF:-1 tvg-id="" tvg-name="24hs Hércules" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Hércules
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931360
+#EXTINF:-1 tvg-id="" tvg-name="24hs Jackie Chan e Amigos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Jackie Chan e Amigos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931361
+#EXTINF:-1 tvg-id="" tvg-name="24hs KENAN E KEL" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs KENAN E KEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931362
+#EXTINF:-1 tvg-id="" tvg-name="24hs Little Angel" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Little Angel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931363
+#EXTINF:-1 tvg-id="" tvg-name="24hs Medabots" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Medabots
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931364
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mega Man" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mega Man
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931365
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mickey Mouse" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mickey Mouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931367
+#EXTINF:-1 tvg-id="" tvg-name="24hs Miraculous Ladybug" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Miraculous Ladybug
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931368
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mortal Kombat" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mortal Kombat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931369
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mucha Lucha" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mucha Lucha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931371
+#EXTINF:-1 tvg-id="" tvg-name="24hs Mundo Bita" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Mundo Bita
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931372
+#EXTINF:-1 tvg-id="" tvg-name="24hs Naruto" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Naruto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931373
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Laboratório de Dexter" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Laboratório de Dexter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931376
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Mundo de Beakman" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Mundo de Beakman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931377
+#EXTINF:-1 tvg-id="" tvg-name="24hs O Máskara" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs O Máskara
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931378
+#EXTINF:-1 tvg-id="" tvg-name="24hs os Cavaleiros do Zodíaco" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs os Cavaleiros do Zodíaco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931379
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Flintstones" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Flintstones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931380
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Padrinhos Mágicos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931381
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Super Patos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Super Patos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931383
+#EXTINF:-1 tvg-id="" tvg-name="24hs Os Vingadores" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Os Vingadores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931384
+#EXTINF:-1 tvg-id="" tvg-name="24hs Papa Léguas" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Papa Léguas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931385
+#EXTINF:-1 tvg-id="" tvg-name="24hs Patati e Patatá" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Patati e Patatá
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931386
+#EXTINF:-1 tvg-id="" tvg-name="24hs Peppa Pig" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Peppa Pig
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931387
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pernalonga e seus amigos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pernalonga e seus amigos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931388
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pica Pau" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pica Pau
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931389
+#EXTINF:-1 tvg-id="" tvg-name="24hs Pocoyo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Pocoyo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931391
+#EXTINF:-1 tvg-id="" tvg-name="24hs POKEMOM MANICRAFT" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs POKEMOM MANICRAFT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931392
+#EXTINF:-1 tvg-id="" tvg-name="24hs RICK E MORTY" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs RICK E MORTY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931394
+#EXTINF:-1 tvg-id="" tvg-name="24hs Sailor Moon" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Sailor Moon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931395
+#EXTINF:-1 tvg-id="" tvg-name="24hs Samurai Warriors" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Samurai Warriors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931396
+#EXTINF:-1 tvg-id="" tvg-name="24hs SCOOBY DOO" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs SCOOBY DOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931397
+#EXTINF:-1 tvg-id="" tvg-name="24hs South Park" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs South Park
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931398
+#EXTINF:-1 tvg-id="" tvg-name="24hs Steven Universo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Steven Universo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931399
+#EXTINF:-1 tvg-id="" tvg-name="24hs Super Choque" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Super Choque
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931400
+#EXTINF:-1 tvg-id="" tvg-name="24hs Taz Mania" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Taz Mania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931401
+#EXTINF:-1 tvg-id="" tvg-name="24hs Thundercats" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Thundercats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931402
+#EXTINF:-1 tvg-id="" tvg-name="24hs Timão e Pumba" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Timão e Pumba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931403
+#EXTINF:-1 tvg-id="" tvg-name="24hs TODO MUNDO ODEIA O CHRIS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931404
+#EXTINF:-1 tvg-id="" tvg-name="24hs TROLLS" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs TROLLS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931406
+#EXTINF:-1 tvg-id="" tvg-name="24hs Três Espiãs Demais" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Três Espiãs Demais
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931407
+#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Mônica" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Turma da Mônica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931408
+#EXTINF:-1 tvg-id="" tvg-name="24hs Turma da Pateta" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Turma da Pateta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931409
+#EXTINF:-1 tvg-id="" tvg-name="24hs Uma família da pesada" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Uma família da pesada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931410
+#EXTINF:-1 tvg-id="" tvg-name="24hs Ursinhos Carinhosos" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Ursinhos Carinhosos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931411
+#EXTINF:-1 tvg-id="" tvg-name="24hs X-men" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs X-men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931412
+#EXTINF:-1 tvg-id="" tvg-name="24hs Zé Colméia" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Zé Colméia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931413
+#EXTINF:-1 tvg-id="" tvg-name="24hs Um Maluco no Pedaço" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24hs Um Maluco no Pedaço
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/931415
+#EXTINF:-1 tvg-id="" tvg-name="24hs Escolinha do Professor Raimundo" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="PROGRAMAS 24 HORAS",24hs Escolinha do Professor Raimundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953392
+#EXTINF:-1 tvg-id="" tvg-name="24hs THE WALKING DEAD" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs THE WALKING DEAD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953393
+#EXTINF:-1 tvg-id="" tvg-name="24hs Vai que Cola" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Vai que Cola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953394
+#EXTINF:-1 tvg-id="" tvg-name="24hs Arqueiro Verde" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Arqueiro Verde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953395
+#EXTINF:-1 tvg-id="" tvg-name="24hs Fate" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Fate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953396
+#EXTINF:-1 tvg-id="" tvg-name="24hs Vikings" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Vikings
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953397
+#EXTINF:-1 tvg-id="" tvg-name="24hs Big Bang Theory" tvg-logo="http://vipeiptv.com:25461/images/83a5a282f092aa7baf6982b54227bb54.png" group-title="PROGRAMAS 24 HORAS",24hs Big Bang Theory
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/953398
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956421
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956422
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956423
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956424
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TNT_Sports_%282021%29.png" group-title="ESPORTE",TNT SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956425
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1280px-Conmebol_Libertadores_logo.svg.png" group-title="COPA LIBERTADORES",CONMEBOL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956448
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2 HD" tvg-logo="http://vipeiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png" group-title="COPA LIBERTADORES",CONMEBOL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956449
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3 HD" tvg-logo="http://vipeiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png" group-title="COPA LIBERTADORES",CONMEBOL 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956450
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4 HD" tvg-logo="http://vipeiptv.com:25461/images/944fd8b268de23ee479fbdce6da25027.png" group-title="COPA LIBERTADORES",CONMEBOL 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956451
+#EXTINF:-1 tvg-id="" tvg-name="24H ALF O E.TEIMOSO VIP" tvg-logo="https://i.imgur.com/S28ccjG.png" group-title="DESENHOS 24 HORAS",24H ALF O E.TEIMOSO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956467
+#EXTINF:-1 tvg-id="" tvg-name="24H AS AVENTURAS DE TOM & JERRY VIP" tvg-logo="https://i.pinimg.com/originals/46/88/90/468890c2e5317f3b59792457b4330acd.png" group-title="DESENHOS 24 HORAS",24H AS AVENTURAS DE TOM & JERRY VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956471
+#EXTINF:-1 tvg-id="" tvg-name="24H AVATAR A LENDA DE KORA H265 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_de_Avatar_la_leyenda_de_Aang.png" group-title="DESENHOS 24 HORAS",24H AVATAR A LENDA DE KORA H265 VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956473
+#EXTINF:-1 tvg-id="" tvg-name="24H BABY LOONEY TUNES VIP" tvg-logo="https://w7.pngwing.com/pngs/283/647/png-transparent-diaper-infant-looney-tunes-changing-tables-disposable-baby-looney-tunes-food-computer-wallpaper-looney.png" group-title="DESENHOS 24 HORAS",24H BABY LOONEY TUNES VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956474
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="DESENHOS 24 HORAS",24H BEN 10 VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956477
+#EXTINF:-1 tvg-id="" tvg-name="24H BEN 10 OMNIVERSE VIP" tvg-logo="https://seeklogo.com/images/B/ben-10-omniverse-logo-9459526B49-seeklogo.com.png" group-title="DESENHOS 24 HORAS",24H BEN 10 OMNIVERSE VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956478
+#EXTINF:-1 tvg-id="" tvg-name="24H BOB ESPONJA T01 A 04 VIP" tvg-logo="https://2.bp.blogspot.com/-KPWQFOwORaQ/WIiCSCxIgXI/AAAAAAAAJeA/nmRNjSGzfgUO6v7DGRDPQmdDZD5Goc6eQCLcB/s1600/logo_bob_esponja.png" group-title="DESENHOS 24 HORAS",24H BOB ESPONJA T01 A 04 VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956480
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA VIP" tvg-logo="https://3.bp.blogspot.com/-nkrpAaQPwxA/VG1XH2MUXtI/AAAAAAAAh7A/FqXNJGcIU6Y/s1600/capit%C3%A3o-caverna-em-png-queroimagem-cei%C3%A7a-crispim-02.png" group-title="DESENHOS 24 HORAS",24H CAPITÃO CAVERNA VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956487
+#EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO PLANETA VIP" tvg-logo="https://www.nicepng.com/png/full/826-8263081_capito-planeta-logo-png.png" group-title="DESENHOS 24 HORAS",24H CAPITÃO PLANETA VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956488
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVALO DE FOGO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CAVALO DE FOGO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956490
+#EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CAVERNA DO DRAGÃO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956491
+#EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM O CÃO COVARDE VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H CORAGEM O CÃO COVARDE VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956497
+#EXTINF:-1 tvg-id="" tvg-name="24H DIGIMON VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DIGIMON VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956502
+#EXTINF:-1 tvg-id="" tvg-name="24H DRAKE & JOSH VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DRAKE & JOSH VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956517
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK DODGERS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DUCK DODGERS VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956518
+#EXTINF:-1 tvg-id="" tvg-name="24H DUCK TALES CLÁSSICO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H DUCK TALES CLÁSSICO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956519
+#EXTINF:-1 tvg-id="" tvg-name="24H FLY O PEQUENO GUERREIRO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H FLY O PEQUENO GUERREIRO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956521
+#EXTINF:-1 tvg-id="" tvg-name="24H GALINHA PINTADINHA MINI VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H GALINHA PINTADINHA MINI VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956528
+#EXTINF:-1 tvg-id="" tvg-name="24H GATO FELIX VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H GATO FELIX VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956529
+#EXTINF:-1 tvg-id="" tvg-name="24H HE-MAN VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H HE-MAN VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956530
+#EXTINF:-1 tvg-id="" tvg-name="24H JASPION VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H JASPION VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956531
+#EXTINF:-1 tvg-id="" tvg-name="24H MUNDO BITA VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H MUNDO BITA VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956537
+#EXTINF:-1 tvg-id="" tvg-name="24H NARUTO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H NARUTO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956538
+#EXTINF:-1 tvg-id="" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H O INCRÍVEL MUNDO DE GUMBALL VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956540
+#EXTINF:-1 tvg-id="" tvg-name="24H O SHOW DO GARFIELD VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H O SHOW DO GARFIELD VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956543
+#EXTINF:-1 tvg-id="" tvg-name="24H OS CAÇA FANTASMA DESENHO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H OS CAÇA FANTASMA DESENHO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956549
+#EXTINF:-1 tvg-id="" tvg-name="24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956553
+#EXTINF:-1 tvg-id="" tvg-name="24H OS RONI VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H OS RONI VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956554
+#EXTINF:-1 tvg-id="" tvg-name="24H PATO DONALD VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H PATO DONALD VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956561
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H PICA- PAU VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956567
+#EXTINF:-1 tvg-id="" tvg-name="24H PINK E O CEREBRO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H PINK E O CEREBRO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956569
+#EXTINF:-1 tvg-id="" tvg-name="24H POPEYE VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H POPEYE VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956571
+#EXTINF:-1 tvg-id="" tvg-name="24H SITIO DO PICA PAU AMARELO VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SITIO DO PICA PAU AMARELO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956578
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPER CHOQUE VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SUPER CHOQUE VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956580
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERAMIGOS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SUPERAMIGOS VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956581
+#EXTINF:-1 tvg-id="" tvg-name="24H SUPERCAMPEÕES VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H SUPERCAMPEÕES VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956582
+#EXTINF:-1 tvg-id="" tvg-name="24H TRÊS ESPIÃS DEMAIS VIP" tvg-logo="http://fonteviper.xyz:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="DESENHOS 24 HORAS",24H TRÊS ESPIÃS DEMAIS VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956586
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Ação" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Ação
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956729
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Comedia" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956730
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Drama" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956731
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Faroeste" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Faroeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956732
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Ficção" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Ficção
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956733
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY POLICIAL" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY POLICIAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DWIGHT FARROKH&amp;url=http://fonteangelusiptv.com:8080/dani123/dani123/956734
