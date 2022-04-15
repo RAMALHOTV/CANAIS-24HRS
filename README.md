@@ -57,13 +57,13 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 https://www.youtube.com/channel/UCojJ
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 24 Horas",Deseho - 3 Palavrinhas - 24H
-http://esrv.cc:80/duoprimelive/Duosat2022/39454|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]BrazilTV[/COLOR][/B];&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39454|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 24 Horas",Desenho - 101 Dalmatas - 24H
-http://esrv.cc:80/duoprimelive/Duosat2022/39034|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]BrazilTV[/COLOR][/B];&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39034|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 24 Horas",Desenho - A Bruxinha Sabrina Temporada 1 - 24H
-http://esrv.cc:80/duoprimelive/Duosat2022/39042|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]BrazilTV[/COLOR][/B];&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39042|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 24 Horas",Desenho - Acampamento do Lazlo
-http://esrv.cc:80/duoprimelive/Duosat2022/39330|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]BrazilTV[/COLOR][/B];&buffer=60000;url=http://esrv.cc:80/duoprimelive/Duosat2022/39330|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 24 Horas",Desenho - Acampamento Lakebottom - 24H
 http://esrv.cc:80/duoprimelive/Duosat2022/39035|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais @ 24 Horas",Desenho - A Casa da Raven - 24H
